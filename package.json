@@ -2,7 +2,7 @@
   "name": "juegos2026",
   "private": true,
   "version": "0.1.0",
-  "description": "Grilla de actividades de los Juegos Sudamericanos ODESUR Santa Fe 2026",
+  "description": "Grilla de actividades de los Juegos Suramericanos ODESUR Santa Fe 2026",
   "type": "module",
   "scripts": {
     "fetch-data": "node scripts/parse-events.mjs",
