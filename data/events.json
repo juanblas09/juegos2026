@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T19:23:43.816Z",
+  "generatedAt": "2026-09-09T19:33:08.798Z",
   "windowStart": "2026-09-13",
-  "windowEnd": "2026-12-09",
+  "windowEnd": "2026-12-08",
   "sports": [
     "Aguas Abiertas",
     "Atletismo",
@@ -5243,11 +5243,11 @@
       "id": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
       "uid": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
       "source": "odesur",
-      "date": "2026-12-09",
-      "startLocal": "2026-12-09T00:00:00-03:00",
-      "endLocal": "2026-12-10T00:00:00-03:00",
-      "startTimeLabel": "00:00",
-      "endTimeLabel": "00:00",
+      "date": "2026-12-08",
+      "startLocal": "2026-12-08T21:00:00-03:00",
+      "endLocal": "2026-12-09T21:00:00-03:00",
+      "startTimeLabel": "21:00",
+      "endTimeLabel": "21:00",
       "sport": "Billar Carambola",
       "sportRaw": "🎱 Billar Carambola — Competencias",
       "gender": null,
@@ -5261,8 +5261,8 @@
       "isOutOfCity": false,
       "description": "Horario a definir. Entrada libre y gratuita.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20261209T030000Z%2F20261210T030000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20261209T030000Z\r\nDTSTART:20261209T030000Z\r\nDTEND:20261210T030000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20261209T000000Z%2F20261210T000000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20261209T000000Z\r\nDTSTART:20261209T000000Z\r\nDTEND:20261210T000000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     }
   ],
   "fanfest": {
