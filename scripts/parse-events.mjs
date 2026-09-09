@@ -1,13 +1,19 @@
 #!/usr/bin/env node
-// Orchestrates the whole data pipeline: download (or read a local fixture),
+// Orchestrates the whole data pipeline: download (or read local fixtures),
 // parse with node-ical, transform each VEVENT into the shape the static site
 // consumes, and write data/events.json. Runs as a plain Node script (not a Vite
 // plugin) so `vite dev`/`vite build` never need network access, and so this can
 // be run standalone locally or via `workflow_dispatch` in CI.
 //
+// Pulls from two independent ICS_SOURCES (see shared/icsSource.mjs): the
+// ODESUR sports calendar (feeds the día × deporte grid) and the Fan Fest
+// calendar (feeds its own separate section - see src/ui/fanfest.js). The two
+// have different SUMMARY shapes and different UI needs, so each gets its own
+// transform below; only fetching/parsing/idempotency are shared.
+//
 // Usage:
-//   node scripts/parse-events.mjs            # fetch the real live .ics
-//   node scripts/parse-events.mjs --fixture  # use scripts/__fixtures__/sample.ics (offline)
+//   node scripts/parse-events.mjs            # fetch the real live .ics feeds
+//   node scripts/parse-events.mjs --fixture  # use scripts/__fixtures__/*.ics (offline)
 
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
@@ -16,7 +22,9 @@ import crypto from 'node:crypto';
 import ical from 'node-ical';
 
 import { fetchIcs } from './fetch-ics.mjs';
+import { getIcsSource } from '../shared/icsSource.mjs';
 import { parseSummary } from '../shared/summaryParser.mjs';
+import { parseFanfestSummary } from '../shared/fanfestSummaryParser.mjs';
 import { composeEventTitle } from '../shared/eventTitle.mjs';
 import { buildMapsUrl } from '../shared/mapsLink.mjs';
 import { buildGoogleCalendarUrl } from '../shared/googleCalendarLink.mjs';
@@ -25,7 +33,10 @@ import { buildSingleEventIcs } from '../shared/icsFile.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'events.json');
-const FIXTURE_PATH = path.join(ROOT, 'scripts', '__fixtures__', 'sample.ics');
+const FIXTURE_PATHS = {
+  odesur: path.join(ROOT, 'scripts', '__fixtures__', 'sample.ics'),
+  fanfest: path.join(ROOT, 'scripts', '__fixtures__', 'fanfest-sample.ics'),
+};
 const TIME_ZONE = 'America/Argentina/Buenos_Aires';
 const TZ_OFFSET = '-03:00'; // fixed offset, no DST in Argentina
 
@@ -79,7 +90,7 @@ function fallbackId(summary, start) {
     .slice(0, 16);
 }
 
-function transformEvent(vevent) {
+function transformOdesurEvent(vevent) {
   const summaryRaw = vevent.summary ?? '';
   const location = vevent.location ?? '';
   const description = (vevent.description ?? '').trim();
@@ -97,6 +108,7 @@ function transformEvent(vevent) {
   return {
     id,
     uid,
+    source: 'odesur',
     date: startParts.date,
     startLocal: startParts.iso,
     endLocal: endParts.iso,
@@ -137,32 +149,79 @@ function transformEvent(vevent) {
   };
 }
 
-async function loadRawIcs({ useFixture }) {
+// Lighter transform for Fan Fest events: no sport/gender/teams/phase (the
+// summary doesn't carry that info), and no per-event Maps/Google
+// Calendar/.ics-download actions - the UI shows one Maps link and one
+// "add to calendar" subscribe action for the whole section instead of
+// repeating them on every one of the ~80 short acts (see src/ui/fanfest.js).
+function transformFanfestEvent(vevent) {
+  const summaryRaw = vevent.summary ?? '';
+  const start = vevent.start;
+  const end = vevent.end ?? vevent.start;
+
+  const { title, stage } = parseFanfestSummary(summaryRaw);
+  const startParts = toArgentinaParts(start);
+  const endParts = toArgentinaParts(end);
+  const uid = vevent.uid && String(vevent.uid).trim() ? String(vevent.uid).trim() : null;
+  const id = uid ?? fallbackId(summaryRaw, start);
+
+  return {
+    id,
+    uid,
+    source: 'fanfest',
+    date: startParts.date,
+    startLocal: startParts.iso,
+    endLocal: endParts.iso,
+    startTimeLabel: startParts.time,
+    endTimeLabel: endParts.time,
+    title,
+    stage,
+  };
+}
+
+async function loadRawIcs(source, useFixture) {
   if (useFixture) {
-    return fs.readFile(FIXTURE_PATH, 'utf8');
+    return fs.readFile(FIXTURE_PATHS[source.slug], 'utf8');
   }
-  return fetchIcs();
+  return fetchIcs(source.url);
+}
+
+async function parseVevents(rawIcs, sourceName) {
+  const parsedIcal = await ical.async.parseICS(rawIcs);
+  const vevents = Object.values(parsedIcal).filter((entry) => entry.type === 'VEVENT');
+  if (vevents.length === 0) {
+    throw new Error(
+      `El .ics de "${sourceName}" no contiene ningún VEVENT - abortando para no pisar datos válidos.`
+    );
+  }
+  return vevents;
+}
+
+/** Secondary sort by `id` breaks ties deterministically: two events at the
+ * exact same start time can otherwise flip order between runs, because
+ * Google's feed doesn't guarantee stable VEVENT ordering across requests -
+ * which would cause a spurious diff (and CI commit) even when nothing about
+ * the schedule actually changed. */
+function sortByStartThenId(events) {
+  return events.sort((a, b) => a.startLocal.localeCompare(b.startLocal) || a.id.localeCompare(b.id));
 }
 
 async function main() {
   const useFixture = process.argv.includes('--fixture');
+  const odesurSource = getIcsSource('odesur');
+  const fanfestSource = getIcsSource('fanfest');
 
-  const rawIcs = await loadRawIcs({ useFixture });
-  const parsedIcal = await ical.async.parseICS(rawIcs);
-  const vevents = Object.values(parsedIcal).filter((entry) => entry.type === 'VEVENT');
+  const [odesurRaw, fanfestRaw] = await Promise.all([
+    loadRawIcs(odesurSource, useFixture),
+    loadRawIcs(fanfestSource, useFixture),
+  ]);
 
-  if (vevents.length === 0) {
-    throw new Error('El .ics no contiene ningún VEVENT - abortando para no pisar datos válidos.');
-  }
+  const [odesurVevents, fanfestVevents] = await Promise.all([
+    parseVevents(odesurRaw, odesurSource.name),
+    parseVevents(fanfestRaw, fanfestSource.name),
+  ]);
 
-  const events = vevents
-    .map((vevent) => transformEvent(vevent))
-    // Secondary sort by `id` breaks ties deterministically: two events at the
-    // exact same start time can otherwise flip order between runs, because
-    // Google's feed doesn't guarantee stable VEVENT ordering across requests -
-    // which would cause a spurious diff (and CI commit) even when nothing
-    // about the schedule actually changed.
-    .sort((a, b) => a.startLocal.localeCompare(b.startLocal) || a.id.localeCompare(b.id));
+  const events = sortByStartThenId(odesurVevents.map(transformOdesurEvent));
 
   const sports = [...new Set(events.map((e) => e.sport))].sort((a, b) => a.localeCompare(b, 'es'));
 
@@ -183,14 +242,38 @@ async function main() {
   const windowStart = dates[0];
   const windowEnd = dates[dates.length - 1];
 
-  const content = { windowStart, windowEnd, sports, venues, events };
+  // Fan Fest: LOCATION is uniformly the generic "Santa Fe, Argentina" (the
+  // source feed has no per-venue address), so the best available Maps query
+  // combines the specific stage name (parsed out of SUMMARY) with that city
+  // text - not pinpoint-accurate, but strictly more useful than the bare city.
+  const fanfestEvents = sortByStartThenId(fanfestVevents.map(transformFanfestEvent));
+  const fanfestLocationRaw = fanfestVevents[0]?.location ?? '';
+  const fanfestStageCounts = new Map();
+  for (const e of fanfestEvents) {
+    if (!e.stage) continue;
+    fanfestStageCounts.set(e.stage, (fanfestStageCounts.get(e.stage) ?? 0) + 1);
+  }
+  const fanfestVenueName =
+    [...fanfestStageCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? fanfestSource.name;
+  const fanfestDates = fanfestEvents.map((e) => e.date).sort();
+
+  const fanfest = {
+    name: fanfestSource.name,
+    venueName: fanfestVenueName,
+    mapsUrl: buildMapsUrl(`${fanfestVenueName}, ${fanfestLocationRaw}`),
+    windowStart: fanfestDates[0],
+    windowEnd: fanfestDates[fanfestDates.length - 1],
+    events: fanfestEvents,
+  };
+
+  const content = { windowStart, windowEnd, sports, venues, events, fanfest };
 
   // `generatedAt` only advances when the actual content changed. Every field
-  // above is now purely derived from the source calendar (no "now" timestamps
-  // baked in - see the DTSTAMP comment in transformEvent), so two runs against
-  // an unchanged source produce byte-identical `content`, and re-using the old
-  // `generatedAt` keeps data/events.json byte-identical too - which is what
-  // lets the CI workflow's "commit only if changed" step correctly no-op
+  // above is now purely derived from the source calendars (no "now" timestamps
+  // baked in - see the DTSTAMP comment in transformOdesurEvent), so two runs
+  // against unchanged sources produce byte-identical `content`, and re-using
+  // the old `generatedAt` keeps data/events.json byte-identical too - which is
+  // what lets the CI workflow's "commit only if changed" step correctly no-op
   // instead of redeploying every 6 hours regardless of real changes.
   let generatedAt = new Date().toISOString();
   try {
@@ -211,13 +294,15 @@ async function main() {
   const parsedCount = events.filter((e) => e.parsed).length;
   const outOfCityCount = events.filter((e) => e.isOutOfCity).length;
   console.log(
-    `OK: ${events.length} eventos escritos en ${path.relative(ROOT, OUTPUT_PATH)}\n` +
-      `  parseados correctamente: ${parsedCount}/${events.length}\n` +
-      `  fallback (sin parsear):  ${events.length - parsedCount}/${events.length}\n` +
-      `  fuera de la ciudad:      ${outOfCityCount}\n` +
-      `  ventana: ${windowStart} .. ${windowEnd}\n` +
-      `  deportes distintos:      ${sports.length}\n` +
-      `  sedes distintas:         ${venues.length}`
+    `OK: ${events.length} eventos ODESUR + ${fanfestEvents.length} eventos Fan Fest escritos en ${path.relative(ROOT, OUTPUT_PATH)}\n` +
+      `  ODESUR parseados correctamente: ${parsedCount}/${events.length}\n` +
+      `  ODESUR fallback (sin parsear):  ${events.length - parsedCount}/${events.length}\n` +
+      `  ODESUR fuera de la ciudad:      ${outOfCityCount}\n` +
+      `  ODESUR ventana: ${windowStart} .. ${windowEnd}\n` +
+      `  ODESUR deportes distintos:      ${sports.length}\n` +
+      `  ODESUR sedes distintas:         ${venues.length}\n` +
+      `  Fan Fest ventana: ${fanfest.windowStart} .. ${fanfest.windowEnd}\n` +
+      `  Fan Fest venue:   ${fanfest.venueName}`
   );
 }
 

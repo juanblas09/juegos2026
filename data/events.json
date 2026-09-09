@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T17:46:21.534Z",
+  "generatedAt": "2026-09-09T19:23:43.816Z",
   "windowStart": "2026-09-13",
-  "windowEnd": "2026-12-08",
+  "windowEnd": "2026-12-09",
   "sports": [
     "Aguas Abiertas",
     "Atletismo",
@@ -99,6 +99,7 @@
     {
       "id": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
       "uid": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
+      "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T09:00:00-03:00",
       "endLocal": "2026-09-13T10:45:00-03:00",
@@ -132,6 +133,7 @@
     {
       "id": "CSVConverteccbaee8de8521a709f42dda2089f340",
       "uid": "CSVConverteccbaee8de8521a709f42dda2089f340",
+      "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T09:00:00-03:00",
       "endLocal": "2026-09-13T12:00:00-03:00",
@@ -156,6 +158,7 @@
     {
       "id": "CSVConverte496c9283a6bfaa78350b21b77b9651a",
       "uid": "CSVConverte496c9283a6bfaa78350b21b77b9651a",
+      "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T11:00:00-03:00",
       "endLocal": "2026-09-13T12:00:00-03:00",
@@ -189,6 +192,7 @@
     {
       "id": "CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a",
       "uid": "CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a",
+      "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T14:00:00-03:00",
       "endLocal": "2026-09-13T15:45:00-03:00",
@@ -222,6 +226,7 @@
     {
       "id": "CSVConvert17f92861197f70958d5938d75a108703",
       "uid": "CSVConvert17f92861197f70958d5938d75a108703",
+      "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T16:00:00-03:00",
       "endLocal": "2026-09-13T17:45:00-03:00",
@@ -255,6 +260,7 @@
     {
       "id": "CSVConvert9428ef33f18535387c3825f1e922d5d5",
       "uid": "CSVConvert9428ef33f18535387c3825f1e922d5d5",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T09:30:00-03:00",
       "endLocal": "2026-09-14T11:00:00-03:00",
@@ -279,6 +285,7 @@
     {
       "id": "CSVConvert7c78bb326af2bde0f72b7e7848d4b2d0",
       "uid": "CSVConvert7c78bb326af2bde0f72b7e7848d4b2d0",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T10:00:00-03:00",
       "endLocal": "2026-09-14T11:45:00-03:00",
@@ -312,6 +319,7 @@
     {
       "id": "CSVConvert289c92a44a1399457ca8ae28e5fa7792",
       "uid": "CSVConvert289c92a44a1399457ca8ae28e5fa7792",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T11:00:00-03:00",
       "endLocal": "2026-09-14T12:00:00-03:00",
@@ -336,6 +344,7 @@
     {
       "id": "CSVConvert25747b5c252b4e4863edbe7579f95a62",
       "uid": "CSVConvert25747b5c252b4e4863edbe7579f95a62",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T15:00:00-03:00",
       "endLocal": "2026-09-14T16:45:00-03:00",
@@ -369,6 +378,7 @@
     {
       "id": "CSVConvert3ae46c9f17524242ea2ae46ba9100da7",
       "uid": "CSVConvert3ae46c9f17524242ea2ae46ba9100da7",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T15:30:00-03:00",
       "endLocal": "2026-09-14T17:00:00-03:00",
@@ -393,6 +403,7 @@
     {
       "id": "CSVConverta25c35c9ff4e3d6b8f5dd67233e33da7",
       "uid": "CSVConverta25c35c9ff4e3d6b8f5dd67233e33da7",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T17:00:00-03:00",
       "endLocal": "2026-09-14T18:30:00-03:00",
@@ -417,6 +428,7 @@
     {
       "id": "CSVConvertfeb0d35345f8a67d65dfc0ca1924e37a",
       "uid": "CSVConvertfeb0d35345f8a67d65dfc0ca1924e37a",
+      "source": "odesur",
       "date": "2026-09-14",
       "startLocal": "2026-09-14T19:00:00-03:00",
       "endLocal": "2026-09-14T20:30:00-03:00",
@@ -441,6 +453,7 @@
     {
       "id": "CSVConvert854323384d10890263711514299e826c",
       "uid": "CSVConvert854323384d10890263711514299e826c",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T08:00:00-03:00",
       "endLocal": "2026-09-15T09:30:00-03:00",
@@ -465,6 +478,7 @@
     {
       "id": "CSVConvert30fb43833f4ec0af09127a62e028ea95",
       "uid": "CSVConvert30fb43833f4ec0af09127a62e028ea95",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:00:00-03:00",
       "endLocal": "2026-09-15T14:50:00-03:00",
@@ -489,6 +503,7 @@
     {
       "id": "CSVConvert567d762646f81b4373b363d67ccdb473",
       "uid": "CSVConvert567d762646f81b4373b363d67ccdb473",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:00:00-03:00",
       "endLocal": "2026-09-15T13:00:00-03:00",
@@ -513,6 +528,7 @@
     {
       "id": "CSVConvert8adbd8871683d20aadd86dc61dd3b748",
       "uid": "CSVConvert8adbd8871683d20aadd86dc61dd3b748",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:00:00-03:00",
       "endLocal": "2026-09-15T14:50:00-03:00",
@@ -537,6 +553,7 @@
     {
       "id": "CSVConverta1e9b1c220e1dab8adee199d1c5701be",
       "uid": "CSVConverta1e9b1c220e1dab8adee199d1c5701be",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:00:00-03:00",
       "endLocal": "2026-09-15T14:50:00-03:00",
@@ -561,6 +578,7 @@
     {
       "id": "CSVConverte5f3c6707c6b516dc6320875eaac3514",
       "uid": "CSVConverte5f3c6707c6b516dc6320875eaac3514",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:00:00-03:00",
       "endLocal": "2026-09-15T13:00:00-03:00",
@@ -585,6 +603,7 @@
     {
       "id": "CSVConvert5de66ef546bdbd6459fc8320a2cc1cf8",
       "uid": "CSVConvert5de66ef546bdbd6459fc8320a2cc1cf8",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T09:30:00-03:00",
       "endLocal": "2026-09-15T11:00:00-03:00",
@@ -609,6 +628,7 @@
     {
       "id": "CSVConvertf7e09723916f8c05411013bfb58852a6",
       "uid": "CSVConvertf7e09723916f8c05411013bfb58852a6",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T10:00:00-03:00",
       "endLocal": "2026-09-15T11:45:00-03:00",
@@ -642,6 +662,7 @@
     {
       "id": "CSVConvertb6d425e98c66535b17115246c1a95564",
       "uid": "CSVConvertb6d425e98c66535b17115246c1a95564",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T11:00:00-03:00",
       "endLocal": "2026-09-15T12:00:00-03:00",
@@ -666,6 +687,7 @@
     {
       "id": "CSVConvert8c1d53ff879ade523862d696876edfb7",
       "uid": "CSVConvert8c1d53ff879ade523862d696876edfb7",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T12:00:00-03:00",
       "endLocal": "2026-09-15T15:00:00-03:00",
@@ -690,6 +712,7 @@
     {
       "id": "CSVConvert5ef80f017ab152e823058e200492ac9f",
       "uid": "CSVConvert5ef80f017ab152e823058e200492ac9f",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T13:30:00-03:00",
       "endLocal": "2026-09-15T15:30:00-03:00",
@@ -723,6 +746,7 @@
     {
       "id": "CSVConvert52c0a08c8a4d6d3e117d9f9250d11381",
       "uid": "CSVConvert52c0a08c8a4d6d3e117d9f9250d11381",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T14:00:00-03:00",
       "endLocal": "2026-09-15T15:45:00-03:00",
@@ -756,6 +780,7 @@
     {
       "id": "CSVConverte1277c09982ed03edf2f7374cdebc10a",
       "uid": "CSVConverte1277c09982ed03edf2f7374cdebc10a",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T15:30:00-03:00",
       "endLocal": "2026-09-15T17:30:00-03:00",
@@ -789,6 +814,7 @@
     {
       "id": "CSVConvertec1eb9671aff89d9d09d2c2b01a9701f",
       "uid": "CSVConvertec1eb9671aff89d9d09d2c2b01a9701f",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T15:30:00-03:00",
       "endLocal": "2026-09-15T17:00:00-03:00",
@@ -813,6 +839,7 @@
     {
       "id": "CSVConverta7e64d898f5ee45e57372aeca3143e41",
       "uid": "CSVConverta7e64d898f5ee45e57372aeca3143e41",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T16:00:00-03:00",
       "endLocal": "2026-09-15T17:45:00-03:00",
@@ -846,6 +873,7 @@
     {
       "id": "CSVConvert2b6534ccbc9993de848dce991cd29d73",
       "uid": "CSVConvert2b6534ccbc9993de848dce991cd29d73",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T17:00:00-03:00",
       "endLocal": "2026-09-15T18:30:00-03:00",
@@ -870,6 +898,7 @@
     {
       "id": "CSVConvert9af837744b8e624a96c9dbab850413e3",
       "uid": "CSVConvert9af837744b8e624a96c9dbab850413e3",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T18:00:00-03:00",
       "endLocal": "2026-09-15T20:00:00-03:00",
@@ -903,6 +932,7 @@
     {
       "id": "CSVConvertca9452834136e132fd062d8946269e53",
       "uid": "CSVConvertca9452834136e132fd062d8946269e53",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T19:00:00-03:00",
       "endLocal": "2026-09-15T20:30:00-03:00",
@@ -927,6 +957,7 @@
     {
       "id": "CSVConvert38c9b96359015fe3b84f7c2839d2ae11",
       "uid": "CSVConvert38c9b96359015fe3b84f7c2839d2ae11",
+      "source": "odesur",
       "date": "2026-09-15",
       "startLocal": "2026-09-15T20:30:00-03:00",
       "endLocal": "2026-09-15T22:30:00-03:00",
@@ -960,6 +991,7 @@
     {
       "id": "CSVConvert73d764ee75a385b5010b98347840c342",
       "uid": "CSVConvert73d764ee75a385b5010b98347840c342",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T08:30:00-03:00",
       "endLocal": "2026-09-16T11:00:00-03:00",
@@ -984,6 +1016,7 @@
     {
       "id": "CSVConvertd938a28606453d71724cbb54945ed956",
       "uid": "CSVConvertd938a28606453d71724cbb54945ed956",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T08:30:00-03:00",
       "endLocal": "2026-09-16T10:00:00-03:00",
@@ -1008,6 +1041,7 @@
     {
       "id": "CSVConvert3b1db8fa2f34dedfc6fa88e5e56ac400",
       "uid": "CSVConvert3b1db8fa2f34dedfc6fa88e5e56ac400",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T09:00:00-03:00",
       "endLocal": "2026-09-16T13:00:00-03:00",
@@ -1032,6 +1066,7 @@
     {
       "id": "CSVConvert61d7a1a716206f932a81b1cef808fcb2",
       "uid": "CSVConvert61d7a1a716206f932a81b1cef808fcb2",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T09:00:00-03:00",
       "endLocal": "2026-09-16T14:00:00-03:00",
@@ -1056,6 +1091,7 @@
     {
       "id": "CSVConvert9fde4738006bd36c7379d0aa6536f3bd",
       "uid": "CSVConvert9fde4738006bd36c7379d0aa6536f3bd",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T09:00:00-03:00",
       "endLocal": "2026-09-16T14:00:00-03:00",
@@ -1080,6 +1116,7 @@
     {
       "id": "CSVConvertd45ed16e8fe53d1e4efc1fce32df8bc1",
       "uid": "CSVConvertd45ed16e8fe53d1e4efc1fce32df8bc1",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T09:00:00-03:00",
       "endLocal": "2026-09-16T13:00:00-03:00",
@@ -1104,6 +1141,7 @@
     {
       "id": "CSVConvertf4a80dd9b80a16ce82daa413e76bc967",
       "uid": "CSVConvertf4a80dd9b80a16ce82daa413e76bc967",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T10:00:00-03:00",
       "endLocal": "2026-09-16T11:45:00-03:00",
@@ -1137,6 +1175,7 @@
     {
       "id": "CSVConvertc4af4ecd627a1cccb9d79530f0431a4c",
       "uid": "CSVConvertc4af4ecd627a1cccb9d79530f0431a4c",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T10:30:00-03:00",
       "endLocal": "2026-09-16T11:30:00-03:00",
@@ -1161,6 +1200,7 @@
     {
       "id": "CSVConvert2835c4bde485ad3ee38b4c12d63f19fe",
       "uid": "CSVConvert2835c4bde485ad3ee38b4c12d63f19fe",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T11:00:00-03:00",
       "endLocal": "2026-09-16T13:30:00-03:00",
@@ -1185,6 +1225,7 @@
     {
       "id": "CSVConvert752eea9ac73f0ab352e79e6cf5f64ab9",
       "uid": "CSVConvert752eea9ac73f0ab352e79e6cf5f64ab9",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T13:30:00-03:00",
       "endLocal": "2026-09-16T15:30:00-03:00",
@@ -1218,6 +1259,7 @@
     {
       "id": "CSVConvert3d86ed6c93346b753b16aebd40ae607c",
       "uid": "CSVConvert3d86ed6c93346b753b16aebd40ae607c",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T14:00:00-03:00",
       "endLocal": "2026-09-16T15:45:00-03:00",
@@ -1251,6 +1293,7 @@
     {
       "id": "CSVConvert9d8ae8dc684e374a855b9a6ab4511a15",
       "uid": "CSVConvert9d8ae8dc684e374a855b9a6ab4511a15",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T14:30:00-03:00",
       "endLocal": "2026-09-16T15:30:00-03:00",
@@ -1275,6 +1318,7 @@
     {
       "id": "CSVConvertc531c52d8a5aa2ba5f48b584be6c94b6",
       "uid": "CSVConvertc531c52d8a5aa2ba5f48b584be6c94b6",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T14:30:00-03:00",
       "endLocal": "2026-09-16T16:00:00-03:00",
@@ -1308,6 +1352,7 @@
     {
       "id": "CSVConvert2081e87d3e583efaad5c60c55e0c590d",
       "uid": "CSVConvert2081e87d3e583efaad5c60c55e0c590d",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T15:30:00-03:00",
       "endLocal": "2026-09-16T17:00:00-03:00",
@@ -1332,6 +1377,7 @@
     {
       "id": "CSVConvertfb13dc4302a7e67ac268100714d4c551",
       "uid": "CSVConvertfb13dc4302a7e67ac268100714d4c551",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T15:30:00-03:00",
       "endLocal": "2026-09-16T17:30:00-03:00",
@@ -1365,6 +1411,7 @@
     {
       "id": "CSVConvert6446044fa8cb309524f3348c275729dd",
       "uid": "CSVConvert6446044fa8cb309524f3348c275729dd",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T16:00:00-03:00",
       "endLocal": "2026-09-16T17:45:00-03:00",
@@ -1398,6 +1445,7 @@
     {
       "id": "CSVConvert6b70e838da3ceab5cb6ee82714c9ed60",
       "uid": "CSVConvert6b70e838da3ceab5cb6ee82714c9ed60",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T17:00:00-03:00",
       "endLocal": "2026-09-16T18:30:00-03:00",
@@ -1431,6 +1479,7 @@
     {
       "id": "CSVConvert46d9faa96eab6721e516f0dd10967f5c",
       "uid": "CSVConvert46d9faa96eab6721e516f0dd10967f5c",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T17:15:00-03:00",
       "endLocal": "2026-09-16T18:45:00-03:00",
@@ -1455,6 +1504,7 @@
     {
       "id": "CSVConvertf46708bd90d7a4dc18c1293d2d985d98",
       "uid": "CSVConvertf46708bd90d7a4dc18c1293d2d985d98",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T18:00:00-03:00",
       "endLocal": "2026-09-16T20:00:00-03:00",
@@ -1488,6 +1538,7 @@
     {
       "id": "CSVConvertd0838edf8135043b1d4a1f5cb6917c10",
       "uid": "CSVConvertd0838edf8135043b1d4a1f5cb6917c10",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T19:00:00-03:00",
       "endLocal": "2026-09-16T20:30:00-03:00",
@@ -1512,6 +1563,7 @@
     {
       "id": "CSVConvert552d0074fe3fa22072f3361c2ec6949b",
       "uid": "CSVConvert552d0074fe3fa22072f3361c2ec6949b",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T19:30:00-03:00",
       "endLocal": "2026-09-16T21:00:00-03:00",
@@ -1545,6 +1597,7 @@
     {
       "id": "CSVConvertb6a5023df667a84604fe155f11646269",
       "uid": "CSVConvertb6a5023df667a84604fe155f11646269",
+      "source": "odesur",
       "date": "2026-09-16",
       "startLocal": "2026-09-16T20:30:00-03:00",
       "endLocal": "2026-09-16T22:30:00-03:00",
@@ -1578,6 +1631,7 @@
     {
       "id": "CSVConvert8358a3c7ec428836e081d3b3d80c0395",
       "uid": "CSVConvert8358a3c7ec428836e081d3b3d80c0395",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T08:30:00-03:00",
       "endLocal": "2026-09-17T10:00:00-03:00",
@@ -1602,6 +1656,7 @@
     {
       "id": "CSVConvert04574300373cd3ce8ca8926c18a30f35",
       "uid": "CSVConvert04574300373cd3ce8ca8926c18a30f35",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T09:00:00-03:00",
       "endLocal": "2026-09-17T13:00:00-03:00",
@@ -1626,6 +1681,7 @@
     {
       "id": "CSVConvert0df9d8a5cc99f46ecaaa228a42c8ec0a",
       "uid": "CSVConvert0df9d8a5cc99f46ecaaa228a42c8ec0a",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T09:00:00-03:00",
       "endLocal": "2026-09-17T15:55:00-03:00",
@@ -1650,6 +1706,7 @@
     {
       "id": "CSVConvert1574564d5610a996a295176a6f6c75d5",
       "uid": "CSVConvert1574564d5610a996a295176a6f6c75d5",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T09:00:00-03:00",
       "endLocal": "2026-09-17T15:55:00-03:00",
@@ -1674,6 +1731,7 @@
     {
       "id": "CSVConvert4f4b8d21c72173a6e609bbec03fa2748",
       "uid": "CSVConvert4f4b8d21c72173a6e609bbec03fa2748",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T09:00:00-03:00",
       "endLocal": "2026-09-17T13:00:00-03:00",
@@ -1698,6 +1756,7 @@
     {
       "id": "CSVConvert7a48829ae0ede5e6dbc7e599baa09338",
       "uid": "CSVConvert7a48829ae0ede5e6dbc7e599baa09338",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T10:00:00-03:00",
       "endLocal": "2026-09-17T11:30:00-03:00",
@@ -1722,6 +1781,7 @@
     {
       "id": "CSVConvert6b45695d391f14e83d8e46898b668903",
       "uid": "CSVConvert6b45695d391f14e83d8e46898b668903",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T11:30:00-03:00",
       "endLocal": "2026-09-17T13:00:00-03:00",
@@ -1746,6 +1806,7 @@
     {
       "id": "CSVConvert02d75f994ac68e8d51b86701730df2b6",
       "uid": "CSVConvert02d75f994ac68e8d51b86701730df2b6",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T13:30:00-03:00",
       "endLocal": "2026-09-17T15:30:00-03:00",
@@ -1779,6 +1840,7 @@
     {
       "id": "CSVConvertc625cb51fda05c8786ad925760b22c75",
       "uid": "CSVConvertc625cb51fda05c8786ad925760b22c75",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T14:30:00-03:00",
       "endLocal": "2026-09-17T16:00:00-03:00",
@@ -1812,6 +1874,7 @@
     {
       "id": "CSVConvert70ae92a26e93917b15b5404ee3bdabbf",
       "uid": "CSVConvert70ae92a26e93917b15b5404ee3bdabbf",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T15:30:00-03:00",
       "endLocal": "2026-09-17T17:30:00-03:00",
@@ -1845,6 +1908,7 @@
     {
       "id": "CSVConvert1e97c841e92b759fc1b56ee5fcb4762a",
       "uid": "CSVConvert1e97c841e92b759fc1b56ee5fcb4762a",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T17:00:00-03:00",
       "endLocal": "2026-09-17T18:30:00-03:00",
@@ -1878,6 +1942,7 @@
     {
       "id": "CSVConvert940c400eb0e6da46b58b12283d5f25f2",
       "uid": "CSVConvert940c400eb0e6da46b58b12283d5f25f2",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T18:00:00-03:00",
       "endLocal": "2026-09-17T20:00:00-03:00",
@@ -1911,6 +1976,7 @@
     {
       "id": "CSVConvert3e167f844378527d9a149fc767b952c0",
       "uid": "CSVConvert3e167f844378527d9a149fc767b952c0",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T19:30:00-03:00",
       "endLocal": "2026-09-17T21:00:00-03:00",
@@ -1944,6 +2010,7 @@
     {
       "id": "CSVConvertb45d94fada6ce15b175d5309235008a0",
       "uid": "CSVConvertb45d94fada6ce15b175d5309235008a0",
+      "source": "odesur",
       "date": "2026-09-17",
       "startLocal": "2026-09-17T20:30:00-03:00",
       "endLocal": "2026-09-17T22:30:00-03:00",
@@ -1977,6 +2044,7 @@
     {
       "id": "CSVConverte661b5df1c6733d1a72c2babf9211d96",
       "uid": "CSVConverte661b5df1c6733d1a72c2babf9211d96",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T08:00:00-03:00",
       "endLocal": "2026-09-18T14:00:00-03:00",
@@ -2001,6 +2069,7 @@
     {
       "id": "CSVConverted3a13eeb6e5a66f1ccabd980da17a07",
       "uid": "CSVConverted3a13eeb6e5a66f1ccabd980da17a07",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T08:00:00-03:00",
       "endLocal": "2026-09-18T14:00:00-03:00",
@@ -2025,6 +2094,7 @@
     {
       "id": "CSVConvert52f5c1894709baf2a6da569e0a1f9b2b",
       "uid": "CSVConvert52f5c1894709baf2a6da569e0a1f9b2b",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T09:00:00-03:00",
       "endLocal": "2026-09-18T13:00:00-03:00",
@@ -2049,6 +2119,7 @@
     {
       "id": "CSVConvert8649651d018f0fe0213d7ffac3d27d69",
       "uid": "CSVConvert8649651d018f0fe0213d7ffac3d27d69",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T09:00:00-03:00",
       "endLocal": "2026-09-18T11:00:00-03:00",
@@ -2073,6 +2144,7 @@
     {
       "id": "CSVConvert8b59d52491863a332f1ead69e870d400",
       "uid": "CSVConvert8b59d52491863a332f1ead69e870d400",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T09:00:00-03:00",
       "endLocal": "2026-09-18T11:00:00-03:00",
@@ -2097,6 +2169,7 @@
     {
       "id": "CSVConvertd2d1a5da12ea2deda8fac5523de0285c",
       "uid": "CSVConvertd2d1a5da12ea2deda8fac5523de0285c",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T09:00:00-03:00",
       "endLocal": "2026-09-18T13:00:00-03:00",
@@ -2121,6 +2194,7 @@
     {
       "id": "CSVConverte40fb50e785e859c0e08dc9cff6f53e5",
       "uid": "CSVConverte40fb50e785e859c0e08dc9cff6f53e5",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T10:00:00-03:00",
       "endLocal": "2026-09-18T11:45:00-03:00",
@@ -2154,6 +2228,7 @@
     {
       "id": "CSVConvertac7d3aee20d85bf7293df3aa244ddc60",
       "uid": "CSVConvertac7d3aee20d85bf7293df3aa244ddc60",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T11:30:00-03:00",
       "endLocal": "2026-09-18T13:30:00-03:00",
@@ -2178,6 +2253,7 @@
     {
       "id": "CSVConvertf9443a6734d3512eaa28c41006694a22",
       "uid": "CSVConvertf9443a6734d3512eaa28c41006694a22",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T11:30:00-03:00",
       "endLocal": "2026-09-18T12:30:00-03:00",
@@ -2202,6 +2278,7 @@
     {
       "id": "CSVConvert74bb568c223a88c6db70bec5d56cb14a",
       "uid": "CSVConvert74bb568c223a88c6db70bec5d56cb14a",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T14:00:00-03:00",
       "endLocal": "2026-09-18T17:00:00-03:00",
@@ -2226,6 +2303,7 @@
     {
       "id": "CSVConvert985ce552b1b849ce46303378ec8dd6d8",
       "uid": "CSVConvert985ce552b1b849ce46303378ec8dd6d8",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T14:00:00-03:00",
       "endLocal": "2026-09-18T15:45:00-03:00",
@@ -2259,6 +2337,7 @@
     {
       "id": "CSVConvert21ebf1a1d6a76065879c0924d26e20c5",
       "uid": "CSVConvert21ebf1a1d6a76065879c0924d26e20c5",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T14:30:00-03:00",
       "endLocal": "2026-09-18T16:00:00-03:00",
@@ -2292,6 +2371,7 @@
     {
       "id": "CSVConvert00d40dcdd9980ede720a52863c3c63de",
       "uid": "CSVConvert00d40dcdd9980ede720a52863c3c63de",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T15:30:00-03:00",
       "endLocal": "2026-09-18T17:30:00-03:00",
@@ -2325,6 +2405,7 @@
     {
       "id": "CSVConverte6d8932a27c2b5bbcab7871361fd114c",
       "uid": "CSVConverte6d8932a27c2b5bbcab7871361fd114c",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T16:00:00-03:00",
       "endLocal": "2026-09-18T17:45:00-03:00",
@@ -2358,6 +2439,7 @@
     {
       "id": "CSVConvertbb55b628d97a057e7bdf5f32e7c8b541",
       "uid": "CSVConvertbb55b628d97a057e7bdf5f32e7c8b541",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T17:00:00-03:00",
       "endLocal": "2026-09-18T18:30:00-03:00",
@@ -2391,6 +2473,7 @@
     {
       "id": "CSVConvertfbef44fa0da442b38b0557dcb3b476d4",
       "uid": "CSVConvertfbef44fa0da442b38b0557dcb3b476d4",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T18:00:00-03:00",
       "endLocal": "2026-09-18T20:00:00-03:00",
@@ -2424,6 +2507,7 @@
     {
       "id": "CSVConvert6cffbbbceef5359aec0aeadc51cee965",
       "uid": "CSVConvert6cffbbbceef5359aec0aeadc51cee965",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T19:30:00-03:00",
       "endLocal": "2026-09-18T21:00:00-03:00",
@@ -2457,6 +2541,7 @@
     {
       "id": "CSVConvertff69e6277ab2d49f8a01787afb6db380",
       "uid": "CSVConvertff69e6277ab2d49f8a01787afb6db380",
+      "source": "odesur",
       "date": "2026-09-18",
       "startLocal": "2026-09-18T20:30:00-03:00",
       "endLocal": "2026-09-18T22:30:00-03:00",
@@ -2490,6 +2575,7 @@
     {
       "id": "CSVConvert0aa450ab02581bbbce25c22e065e6630",
       "uid": "CSVConvert0aa450ab02581bbbce25c22e065e6630",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T08:30:00-03:00",
       "endLocal": "2026-09-19T11:00:00-03:00",
@@ -2514,6 +2600,7 @@
     {
       "id": "CSVConvert3d9ea22e4173b6768742aa79816e9b49",
       "uid": "CSVConvert3d9ea22e4173b6768742aa79816e9b49",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T09:00:00-03:00",
       "endLocal": "2026-09-19T14:00:00-03:00",
@@ -2538,6 +2625,7 @@
     {
       "id": "CSVConvert8c8c085aef61e56a697850b5dfdcc22c",
       "uid": "CSVConvert8c8c085aef61e56a697850b5dfdcc22c",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T09:00:00-03:00",
       "endLocal": "2026-09-19T14:00:00-03:00",
@@ -2562,6 +2650,7 @@
     {
       "id": "CSVConvertc23ecac309d49d3c55c6b71d8d47845a",
       "uid": "CSVConvertc23ecac309d49d3c55c6b71d8d47845a",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T09:00:00-03:00",
       "endLocal": "2026-09-19T14:00:00-03:00",
@@ -2586,6 +2675,7 @@
     {
       "id": "CSVConvertff93e8a5659f0dd70c102378070f39d2",
       "uid": "CSVConvertff93e8a5659f0dd70c102378070f39d2",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T09:00:00-03:00",
       "endLocal": "2026-09-19T13:00:00-03:00",
@@ -2610,6 +2700,7 @@
     {
       "id": "CSVConvertb296cb1ef40581c2b6105570b09c3e65",
       "uid": "CSVConvertb296cb1ef40581c2b6105570b09c3e65",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T10:00:00-03:00",
       "endLocal": "2026-09-19T11:45:00-03:00",
@@ -2643,6 +2734,7 @@
     {
       "id": "CSVConverte66c13049a73a8db4e0dbf1c4bda7871",
       "uid": "CSVConverte66c13049a73a8db4e0dbf1c4bda7871",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T12:00:00-03:00",
       "endLocal": "2026-09-19T13:45:00-03:00",
@@ -2676,6 +2768,7 @@
     {
       "id": "CSVConverte54d523c82d794dd4d64d3fb84bd1993",
       "uid": "CSVConverte54d523c82d794dd4d64d3fb84bd1993",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T13:30:00-03:00",
       "endLocal": "2026-09-19T17:00:00-03:00",
@@ -2700,6 +2793,7 @@
     {
       "id": "CSVConvert2a54f50734f9d5c2eb9e64f1de224712",
       "uid": "CSVConvert2a54f50734f9d5c2eb9e64f1de224712",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T14:30:00-03:00",
       "endLocal": "2026-09-19T16:00:00-03:00",
@@ -2733,6 +2827,7 @@
     {
       "id": "CSVConvert684f592260c734a2adff06b84e32f02c",
       "uid": "CSVConvert684f592260c734a2adff06b84e32f02c",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T16:00:00-03:00",
       "endLocal": "2026-09-19T18:00:00-03:00",
@@ -2757,6 +2852,7 @@
     {
       "id": "CSVConvert3880873e86e03a154d8e06692792d131",
       "uid": "CSVConvert3880873e86e03a154d8e06692792d131",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T17:00:00-03:00",
       "endLocal": "2026-09-19T18:30:00-03:00",
@@ -2790,6 +2886,7 @@
     {
       "id": "CSVConvert5a25292ad0e74cd02b5b47ecc725106c",
       "uid": "CSVConvert5a25292ad0e74cd02b5b47ecc725106c",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T17:30:00-03:00",
       "endLocal": "2026-09-19T18:30:00-03:00",
@@ -2814,6 +2911,7 @@
     {
       "id": "CSVConvert811803f1349a7509fbc6d75bfad4a82a",
       "uid": "CSVConvert811803f1349a7509fbc6d75bfad4a82a",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T19:00:00-03:00",
       "endLocal": "2026-09-19T21:00:00-03:00",
@@ -2838,6 +2936,7 @@
     {
       "id": "CSVConvertb91da8a343f386dac4ef1c31c282d7a7",
       "uid": "CSVConvertb91da8a343f386dac4ef1c31c282d7a7",
+      "source": "odesur",
       "date": "2026-09-19",
       "startLocal": "2026-09-19T19:30:00-03:00",
       "endLocal": "2026-09-19T21:00:00-03:00",
@@ -2871,6 +2970,7 @@
     {
       "id": "CSVConvert3fb8f87b8286427d41c17f033aa804f2",
       "uid": "CSVConvert3fb8f87b8286427d41c17f033aa804f2",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T09:00:00-03:00",
       "endLocal": "2026-09-20T14:00:00-03:00",
@@ -2895,6 +2995,7 @@
     {
       "id": "CSVConvert430df1c8f8369e21195232deae15f5fe",
       "uid": "CSVConvert430df1c8f8369e21195232deae15f5fe",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T09:00:00-03:00",
       "endLocal": "2026-09-20T14:00:00-03:00",
@@ -2919,6 +3020,7 @@
     {
       "id": "CSVConvert9e87afc70919b255b3cfd08af432a89c",
       "uid": "CSVConvert9e87afc70919b255b3cfd08af432a89c",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T09:00:00-03:00",
       "endLocal": "2026-09-20T14:00:00-03:00",
@@ -2943,6 +3045,7 @@
     {
       "id": "CSVConverte277a267371f64f7924d84a2d0a3ad23",
       "uid": "CSVConverte277a267371f64f7924d84a2d0a3ad23",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T09:00:00-03:00",
       "endLocal": "2026-09-20T13:00:00-03:00",
@@ -2967,6 +3070,7 @@
     {
       "id": "CSVConvert5aedee0a73c4a3e8835260c738edc237",
       "uid": "CSVConvert5aedee0a73c4a3e8835260c738edc237",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T09:30:00-03:00",
       "endLocal": "2026-09-20T11:00:00-03:00",
@@ -2991,6 +3095,7 @@
     {
       "id": "CSVConvert72f5fa168c6e463be5c88c7738c91b26",
       "uid": "CSVConvert72f5fa168c6e463be5c88c7738c91b26",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T10:00:00-03:00",
       "endLocal": "2026-09-20T11:45:00-03:00",
@@ -3024,6 +3129,7 @@
     {
       "id": "CSVConvert0c4ab7112735ba6b4ae04f112176718b",
       "uid": "CSVConvert0c4ab7112735ba6b4ae04f112176718b",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T11:15:00-03:00",
       "endLocal": "2026-09-20T12:15:00-03:00",
@@ -3048,6 +3154,7 @@
     {
       "id": "CSVConvert500e383447aaf840bc8ced1caa6115dc",
       "uid": "CSVConvert500e383447aaf840bc8ced1caa6115dc",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T12:00:00-03:00",
       "endLocal": "2026-09-20T13:45:00-03:00",
@@ -3081,6 +3188,7 @@
     {
       "id": "CSVConverte3a8442b408defafa443c2baa9621d1e",
       "uid": "CSVConverte3a8442b408defafa443c2baa9621d1e",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T13:00:00-03:00",
       "endLocal": "2026-09-20T14:30:00-03:00",
@@ -3105,6 +3213,7 @@
     {
       "id": "CSVConvert7d6aa06932dfd671923f90a546ceabd0",
       "uid": "CSVConvert7d6aa06932dfd671923f90a546ceabd0",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T14:00:00-03:00",
       "endLocal": "2026-09-20T15:45:00-03:00",
@@ -3138,6 +3247,7 @@
     {
       "id": "CSVConvertf458d8c6bf06edee7d31847ebbbeefd2",
       "uid": "CSVConvertf458d8c6bf06edee7d31847ebbbeefd2",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T14:30:00-03:00",
       "endLocal": "2026-09-20T16:00:00-03:00",
@@ -3171,6 +3281,7 @@
     {
       "id": "CSVConvert77fc1d4c2da143102a6282b6245c0186",
       "uid": "CSVConvert77fc1d4c2da143102a6282b6245c0186",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T15:00:00-03:00",
       "endLocal": "2026-09-20T17:00:00-03:00",
@@ -3195,6 +3306,7 @@
     {
       "id": "CSVConverta99bb00a66602dc6ceaa6f64ac07ed32",
       "uid": "CSVConverta99bb00a66602dc6ceaa6f64ac07ed32",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T15:00:00-03:00",
       "endLocal": "2026-09-20T17:00:00-03:00",
@@ -3219,6 +3331,7 @@
     {
       "id": "CSVConvert1e699a8b0318635944398e602f661b33",
       "uid": "CSVConvert1e699a8b0318635944398e602f661b33",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T17:00:00-03:00",
       "endLocal": "2026-09-20T18:30:00-03:00",
@@ -3252,6 +3365,7 @@
     {
       "id": "CSVConvert906ca1509273aa8e06c685ea68c566a9",
       "uid": "CSVConvert906ca1509273aa8e06c685ea68c566a9",
+      "source": "odesur",
       "date": "2026-09-20",
       "startLocal": "2026-09-20T19:30:00-03:00",
       "endLocal": "2026-09-20T21:00:00-03:00",
@@ -3285,6 +3399,7 @@
     {
       "id": "CSVConvert4286cdd6a43f68f78266dcf6193df83b",
       "uid": "CSVConvert4286cdd6a43f68f78266dcf6193df83b",
+      "source": "odesur",
       "date": "2026-09-21",
       "startLocal": "2026-09-21T15:30:00-03:00",
       "endLocal": "2026-09-21T17:30:00-03:00",
@@ -3318,6 +3433,7 @@
     {
       "id": "CSVConverte2622dd28027337d00e9e29355f3d788",
       "uid": "CSVConverte2622dd28027337d00e9e29355f3d788",
+      "source": "odesur",
       "date": "2026-09-21",
       "startLocal": "2026-09-21T18:00:00-03:00",
       "endLocal": "2026-09-21T20:00:00-03:00",
@@ -3351,6 +3467,7 @@
     {
       "id": "CSVConvertb55b5cd0fe7c64e58998f4c6b25d2f83",
       "uid": "CSVConvertb55b5cd0fe7c64e58998f4c6b25d2f83",
+      "source": "odesur",
       "date": "2026-09-21",
       "startLocal": "2026-09-21T20:30:00-03:00",
       "endLocal": "2026-09-21T22:30:00-03:00",
@@ -3384,6 +3501,7 @@
     {
       "id": "CSVConvert1753de964b312b9da8c992992b7d5ca0",
       "uid": "CSVConvert1753de964b312b9da8c992992b7d5ca0",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T09:00:00-03:00",
       "endLocal": "2026-09-22T10:45:00-03:00",
@@ -3408,6 +3526,7 @@
     {
       "id": "CSVConvert764319a4ed11c4fa0a22bb05e574ef69",
       "uid": "CSVConvert764319a4ed11c4fa0a22bb05e574ef69",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T09:00:00-03:00",
       "endLocal": "2026-09-22T11:00:00-03:00",
@@ -3432,6 +3551,7 @@
     {
       "id": "CSVConvertbc22b75bbc8fa5744e6d04d65bb4ff0d",
       "uid": "CSVConvertbc22b75bbc8fa5744e6d04d65bb4ff0d",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T09:00:00-03:00",
       "endLocal": "2026-09-22T11:00:00-03:00",
@@ -3456,6 +3576,7 @@
     {
       "id": "CSVConvert5255d4a87c4aa5404545bfa0ab55ed1e",
       "uid": "CSVConvert5255d4a87c4aa5404545bfa0ab55ed1e",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T10:00:00-03:00",
       "endLocal": "2026-09-22T13:00:00-03:00",
@@ -3480,6 +3601,7 @@
     {
       "id": "CSVConvert2cbb24c781795339489f615020391a72",
       "uid": "CSVConvert2cbb24c781795339489f615020391a72",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T11:15:00-03:00",
       "endLocal": "2026-09-22T13:00:00-03:00",
@@ -3504,6 +3626,7 @@
     {
       "id": "CSVConvert25fa2520e31dc952ec6ca75c264ff4c0",
       "uid": "CSVConvert25fa2520e31dc952ec6ca75c264ff4c0",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T13:30:00-03:00",
       "endLocal": "2026-09-22T15:15:00-03:00",
@@ -3528,6 +3651,7 @@
     {
       "id": "CSVConvertb17c9e17eb2cba3917a51f95f432f1ef",
       "uid": "CSVConvertb17c9e17eb2cba3917a51f95f432f1ef",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T14:30:00-03:00",
       "endLocal": "2026-09-22T16:00:00-03:00",
@@ -3561,6 +3685,7 @@
     {
       "id": "CSVConverte4f981ab4e8c984a8087f03d7eaf539b",
       "uid": "CSVConverte4f981ab4e8c984a8087f03d7eaf539b",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T15:30:00-03:00",
       "endLocal": "2026-09-22T17:30:00-03:00",
@@ -3594,6 +3719,7 @@
     {
       "id": "CSVConvert157d5cfd541c256cee748652d3557f36",
       "uid": "CSVConvert157d5cfd541c256cee748652d3557f36",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T15:45:00-03:00",
       "endLocal": "2026-09-22T17:30:00-03:00",
@@ -3618,6 +3744,7 @@
     {
       "id": "CSVConvert4753549662beb48fadc640b97cc9ef83",
       "uid": "CSVConvert4753549662beb48fadc640b97cc9ef83",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T17:00:00-03:00",
       "endLocal": "2026-09-22T18:30:00-03:00",
@@ -3651,6 +3778,7 @@
     {
       "id": "CSVConvert245fe5f03eb6399a256edd0118dc785d",
       "uid": "CSVConvert245fe5f03eb6399a256edd0118dc785d",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T18:00:00-03:00",
       "endLocal": "2026-09-22T20:00:00-03:00",
@@ -3684,6 +3812,7 @@
     {
       "id": "CSVConvert562e8f8c09954b830e544b6a87d180c7",
       "uid": "CSVConvert562e8f8c09954b830e544b6a87d180c7",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T18:00:00-03:00",
       "endLocal": "2026-09-22T20:00:00-03:00",
@@ -3708,6 +3837,7 @@
     {
       "id": "CSVConvert055093871b4603696a4d09b43125ce6b",
       "uid": "CSVConvert055093871b4603696a4d09b43125ce6b",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T18:30:00-03:00",
       "endLocal": "2026-09-22T20:30:00-03:00",
@@ -3732,6 +3862,7 @@
     {
       "id": "CSVConvert06c1418a6f718012ded141df0ec54829",
       "uid": "CSVConvert06c1418a6f718012ded141df0ec54829",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T19:30:00-03:00",
       "endLocal": "2026-09-22T21:00:00-03:00",
@@ -3765,6 +3896,7 @@
     {
       "id": "CSVConvert36cd21ea23836cc5af9cb52c7a8f2d48",
       "uid": "CSVConvert36cd21ea23836cc5af9cb52c7a8f2d48",
+      "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T20:30:00-03:00",
       "endLocal": "2026-09-22T22:30:00-03:00",
@@ -3798,6 +3930,7 @@
     {
       "id": "CSVConvert3e90f30f090ba8056b16dda314e43a19",
       "uid": "CSVConvert3e90f30f090ba8056b16dda314e43a19",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T07:00:00-03:00",
       "endLocal": "2026-09-23T11:00:00-03:00",
@@ -3822,6 +3955,7 @@
     {
       "id": "CSVConvert3e923a0b883772482894bf3a7a2d0570",
       "uid": "CSVConvert3e923a0b883772482894bf3a7a2d0570",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T09:00:00-03:00",
       "endLocal": "2026-09-23T11:30:00-03:00",
@@ -3846,6 +3980,7 @@
     {
       "id": "CSVConvert88b1343b9092b5f89d31b41dad48cebf",
       "uid": "CSVConvert88b1343b9092b5f89d31b41dad48cebf",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T10:00:00-03:00",
       "endLocal": "2026-09-23T13:00:00-03:00",
@@ -3870,6 +4005,7 @@
     {
       "id": "CSVConvertd7be67c8977875b2926cd44b7069e67b",
       "uid": "CSVConvertd7be67c8977875b2926cd44b7069e67b",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T11:35:00-03:00",
       "endLocal": "2026-09-23T12:35:00-03:00",
@@ -3894,6 +4030,7 @@
     {
       "id": "CSVConvertf3acade3214c76d1da3c7e8135c7268b",
       "uid": "CSVConvertf3acade3214c76d1da3c7e8135c7268b",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T14:30:00-03:00",
       "endLocal": "2026-09-23T16:00:00-03:00",
@@ -3927,6 +4064,7 @@
     {
       "id": "CSVConvert7d3a155f5c0a8c16fc36a4cc7062ba1e",
       "uid": "CSVConvert7d3a155f5c0a8c16fc36a4cc7062ba1e",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T15:30:00-03:00",
       "endLocal": "2026-09-23T17:30:00-03:00",
@@ -3960,6 +4098,7 @@
     {
       "id": "CSVConvertb7186611dab6c1cc444509477f475970",
       "uid": "CSVConvertb7186611dab6c1cc444509477f475970",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T15:30:00-03:00",
       "endLocal": "2026-09-23T17:30:00-03:00",
@@ -3984,6 +4123,7 @@
     {
       "id": "CSVConvert5647251240596301b8ac95e8b796f55e",
       "uid": "CSVConvert5647251240596301b8ac95e8b796f55e",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T17:00:00-03:00",
       "endLocal": "2026-09-23T18:30:00-03:00",
@@ -4017,6 +4157,7 @@
     {
       "id": "CSVConvertbbabaa9ad5bea81c5df29ce9e9fa7650",
       "uid": "CSVConvertbbabaa9ad5bea81c5df29ce9e9fa7650",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T18:00:00-03:00",
       "endLocal": "2026-09-23T20:00:00-03:00",
@@ -4050,6 +4191,7 @@
     {
       "id": "CSVConvertfa40b605d67cb3a3e7ba7095f40c154f",
       "uid": "CSVConvertfa40b605d67cb3a3e7ba7095f40c154f",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T18:00:00-03:00",
       "endLocal": "2026-09-23T20:00:00-03:00",
@@ -4074,6 +4216,7 @@
     {
       "id": "CSVConvert75c8353a239c62da3af86f43ea7d812e",
       "uid": "CSVConvert75c8353a239c62da3af86f43ea7d812e",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T18:30:00-03:00",
       "endLocal": "2026-09-23T20:30:00-03:00",
@@ -4098,6 +4241,7 @@
     {
       "id": "CSVConvert7ad0df8d0e1d40b22550d987e9902eb2",
       "uid": "CSVConvert7ad0df8d0e1d40b22550d987e9902eb2",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T19:30:00-03:00",
       "endLocal": "2026-09-23T21:00:00-03:00",
@@ -4131,6 +4275,7 @@
     {
       "id": "CSVConvert738746afbd71caeeb85f80cb4e69fcc7",
       "uid": "CSVConvert738746afbd71caeeb85f80cb4e69fcc7",
+      "source": "odesur",
       "date": "2026-09-23",
       "startLocal": "2026-09-23T20:30:00-03:00",
       "endLocal": "2026-09-23T22:30:00-03:00",
@@ -4164,6 +4309,7 @@
     {
       "id": "CSVConvertc0e32add7c86e67d2297934a94afb30d",
       "uid": "CSVConvertc0e32add7c86e67d2297934a94afb30d",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T09:00:00-03:00",
       "endLocal": "2026-09-24T10:00:00-03:00",
@@ -4188,6 +4334,7 @@
     {
       "id": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
       "uid": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T09:00:00-03:00",
       "endLocal": "2026-09-24T11:00:00-03:00",
@@ -4212,6 +4359,7 @@
     {
       "id": "CSVConvert498814f461f1c15def6e8755422a1430",
       "uid": "CSVConvert498814f461f1c15def6e8755422a1430",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T09:09:00-03:00",
       "endLocal": "2026-09-24T11:07:00-03:00",
@@ -4236,6 +4384,7 @@
     {
       "id": "CSVConvertd5930ed66ddde7a191b818cc9444a221",
       "uid": "CSVConvertd5930ed66ddde7a191b818cc9444a221",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T10:30:00-03:00",
       "endLocal": "2026-09-24T11:30:00-03:00",
@@ -4260,6 +4409,7 @@
     {
       "id": "CSVConvertbb01063385fda9c2cb7593bfe78e0ae8",
       "uid": "CSVConvertbb01063385fda9c2cb7593bfe78e0ae8",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T11:08:00-03:00",
       "endLocal": "2026-09-24T12:08:00-03:00",
@@ -4284,6 +4434,7 @@
     {
       "id": "CSVConvertc8f49960898db2fa0a8430bf197abe68",
       "uid": "CSVConvertc8f49960898db2fa0a8430bf197abe68",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T12:00:00-03:00",
       "endLocal": "2026-09-24T13:30:00-03:00",
@@ -4308,6 +4459,7 @@
     {
       "id": "CSVConverta605d18703e6123c4740e12467e6ccc2",
       "uid": "CSVConverta605d18703e6123c4740e12467e6ccc2",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T14:00:00-03:00",
       "endLocal": "2026-09-24T15:40:00-03:00",
@@ -4332,6 +4484,7 @@
     {
       "id": "CSVConvertf58a79cadcdba6f694133e9c6a760852",
       "uid": "CSVConvertf58a79cadcdba6f694133e9c6a760852",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T14:30:00-03:00",
       "endLocal": "2026-09-24T16:00:00-03:00",
@@ -4365,6 +4518,7 @@
     {
       "id": "CSVConvert8e1abc61cf08c98621a606f8af384db6",
       "uid": "CSVConvert8e1abc61cf08c98621a606f8af384db6",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T15:30:00-03:00",
       "endLocal": "2026-09-24T17:30:00-03:00",
@@ -4398,6 +4552,7 @@
     {
       "id": "CSVConvertcc72cef77bf3f033ddd81f2120823afd",
       "uid": "CSVConvertcc72cef77bf3f033ddd81f2120823afd",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T15:41:00-03:00",
       "endLocal": "2026-09-24T16:34:00-03:00",
@@ -4422,6 +4577,7 @@
     {
       "id": "CSVConvert00db71ba78439f6af57a6166bcf7625f",
       "uid": "CSVConvert00db71ba78439f6af57a6166bcf7625f",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T17:00:00-03:00",
       "endLocal": "2026-09-24T18:30:00-03:00",
@@ -4455,6 +4611,7 @@
     {
       "id": "CSVConvert536431a6a11a2e9101a8b2b7d47100af",
       "uid": "CSVConvert536431a6a11a2e9101a8b2b7d47100af",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T18:00:00-03:00",
       "endLocal": "2026-09-24T20:00:00-03:00",
@@ -4488,6 +4645,7 @@
     {
       "id": "CSVConvert5f844a2b9c6c5bc1c36c5022ede94343",
       "uid": "CSVConvert5f844a2b9c6c5bc1c36c5022ede94343",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T18:00:00-03:00",
       "endLocal": "2026-09-24T20:00:00-03:00",
@@ -4512,6 +4670,7 @@
     {
       "id": "CSVConverte2e6bd621eb3a6e2e6792c77b5293446",
       "uid": "CSVConverte2e6bd621eb3a6e2e6792c77b5293446",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T19:00:00-03:00",
       "endLocal": "2026-09-24T20:30:00-03:00",
@@ -4536,6 +4695,7 @@
     {
       "id": "CSVConvert2ffbe4a45109b637f4b01eeba316523e",
       "uid": "CSVConvert2ffbe4a45109b637f4b01eeba316523e",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T19:30:00-03:00",
       "endLocal": "2026-09-24T21:00:00-03:00",
@@ -4569,6 +4729,7 @@
     {
       "id": "CSVConvertfb4af96e2578854b84b93e3d4daa2083",
       "uid": "CSVConvertfb4af96e2578854b84b93e3d4daa2083",
+      "source": "odesur",
       "date": "2026-09-24",
       "startLocal": "2026-09-24T20:30:00-03:00",
       "endLocal": "2026-09-24T22:30:00-03:00",
@@ -4602,6 +4763,7 @@
     {
       "id": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
       "uid": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T07:00:00-03:00",
       "endLocal": "2026-09-25T11:00:00-03:00",
@@ -4626,6 +4788,7 @@
     {
       "id": "CSVConvert0e5a20c4c9ce8b9cc2bc25782181651a",
       "uid": "CSVConvert0e5a20c4c9ce8b9cc2bc25782181651a",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T09:00:00-03:00",
       "endLocal": "2026-09-25T11:30:00-03:00",
@@ -4650,6 +4813,7 @@
     {
       "id": "CSVConvertbb469abd12ddd7378aad0933c177dc58",
       "uid": "CSVConvertbb469abd12ddd7378aad0933c177dc58",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T09:00:00-03:00",
       "endLocal": "2026-09-25T10:00:00-03:00",
@@ -4674,6 +4838,7 @@
     {
       "id": "CSVConvert79ba087b19d444e13305e501cbed6f95",
       "uid": "CSVConvert79ba087b19d444e13305e501cbed6f95",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T09:01:00-03:00",
       "endLocal": "2026-09-25T09:54:00-03:00",
@@ -4698,6 +4863,7 @@
     {
       "id": "CSVConvert0f3898a4b1d97140a03c7d83bc526a2b",
       "uid": "CSVConvert0f3898a4b1d97140a03c7d83bc526a2b",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T10:15:00-03:00",
       "endLocal": "2026-09-25T11:15:00-03:00",
@@ -4722,6 +4888,7 @@
     {
       "id": "CSVConvert2c696cd645725341820f98727142c441",
       "uid": "CSVConvert2c696cd645725341820f98727142c441",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T10:36:00-03:00",
       "endLocal": "2026-09-25T11:36:00-03:00",
@@ -4746,6 +4913,7 @@
     {
       "id": "CSVConvertad7ea3589e3817c193df870f28b19ffd",
       "uid": "CSVConvertad7ea3589e3817c193df870f28b19ffd",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T14:30:00-03:00",
       "endLocal": "2026-09-25T16:00:00-03:00",
@@ -4779,6 +4947,7 @@
     {
       "id": "CSVConvert0faa1789ef5bf5eb86b81352a8e45579",
       "uid": "CSVConvert0faa1789ef5bf5eb86b81352a8e45579",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T16:00:00-03:00",
       "endLocal": "2026-09-25T18:00:00-03:00",
@@ -4803,6 +4972,7 @@
     {
       "id": "CSVConverta3cab7ed4af78d01cda2064df08b3750",
       "uid": "CSVConverta3cab7ed4af78d01cda2064df08b3750",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T17:00:00-03:00",
       "endLocal": "2026-09-25T18:30:00-03:00",
@@ -4836,6 +5006,7 @@
     {
       "id": "CSVConvert88203fafdee1dcb6f73e79b94a38f33d",
       "uid": "CSVConvert88203fafdee1dcb6f73e79b94a38f33d",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T18:00:00-03:00",
       "endLocal": "2026-09-25T20:00:00-03:00",
@@ -4860,6 +5031,7 @@
     {
       "id": "CSVConvertc9b677d08026049a9d0d25598d5a97c1",
       "uid": "CSVConvertc9b677d08026049a9d0d25598d5a97c1",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T18:00:00-03:00",
       "endLocal": "2026-09-25T19:00:00-03:00",
@@ -4884,6 +5056,7 @@
     {
       "id": "CSVConvert2c1144fc4ea9ca556f399dd202e026ca",
       "uid": "CSVConvert2c1144fc4ea9ca556f399dd202e026ca",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T19:00:00-03:00",
       "endLocal": "2026-09-25T20:30:00-03:00",
@@ -4908,6 +5081,7 @@
     {
       "id": "CSVConvert5c829cadee1acf0e032e1a618e5bf9a8",
       "uid": "CSVConvert5c829cadee1acf0e032e1a618e5bf9a8",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T19:00:00-03:00",
       "endLocal": "2026-09-25T21:00:00-03:00",
@@ -4932,6 +5106,7 @@
     {
       "id": "CSVConvert1014d7e8297ca5bcdfde54f36684d5b2",
       "uid": "CSVConvert1014d7e8297ca5bcdfde54f36684d5b2",
+      "source": "odesur",
       "date": "2026-09-25",
       "startLocal": "2026-09-25T19:30:00-03:00",
       "endLocal": "2026-09-25T21:00:00-03:00",
@@ -4965,6 +5140,7 @@
     {
       "id": "CSVConvertb9cf0d699568624d247c9aaf153a8a3b",
       "uid": "CSVConvertb9cf0d699568624d247c9aaf153a8a3b",
+      "source": "odesur",
       "date": "2026-09-26",
       "startLocal": "2026-09-26T14:30:00-03:00",
       "endLocal": "2026-09-26T16:00:00-03:00",
@@ -4998,6 +5174,7 @@
     {
       "id": "CSVConvertec934cbc700abdf311bbda85c5a7a8f7",
       "uid": "CSVConvertec934cbc700abdf311bbda85c5a7a8f7",
+      "source": "odesur",
       "date": "2026-09-26",
       "startLocal": "2026-09-26T17:00:00-03:00",
       "endLocal": "2026-09-26T18:30:00-03:00",
@@ -5031,6 +5208,7 @@
     {
       "id": "CSVConvertf57eb56efaf296811703490fc9703589",
       "uid": "CSVConvertf57eb56efaf296811703490fc9703589",
+      "source": "odesur",
       "date": "2026-09-26",
       "startLocal": "2026-09-26T19:30:00-03:00",
       "endLocal": "2026-09-26T21:00:00-03:00",
@@ -5064,11 +5242,12 @@
     {
       "id": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
       "uid": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
-      "date": "2026-12-08",
-      "startLocal": "2026-12-08T21:00:00-03:00",
-      "endLocal": "2026-12-09T21:00:00-03:00",
-      "startTimeLabel": "21:00",
-      "endTimeLabel": "21:00",
+      "source": "odesur",
+      "date": "2026-12-09",
+      "startLocal": "2026-12-09T00:00:00-03:00",
+      "endLocal": "2026-12-10T00:00:00-03:00",
+      "startTimeLabel": "00:00",
+      "endTimeLabel": "00:00",
       "sport": "Billar Carambola",
       "sportRaw": "🎱 Billar Carambola — Competencias",
       "gender": null,
@@ -5082,8 +5261,1025 @@
       "isOutOfCity": false,
       "description": "Horario a definir. Entrada libre y gratuita.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20261209T000000Z%2F20261210T000000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20261209T000000Z\r\nDTSTART:20261209T000000Z\r\nDTEND:20261210T000000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20261209T030000Z%2F20261210T030000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20261209T030000Z\r\nDTSTART:20261209T030000Z\r\nDTEND:20261210T030000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     }
-  ]
+  ],
+  "fanfest": {
+    "name": "Fan Fest",
+    "venueName": "Escenario 1",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Escenario%201%2C%20Santa%20Fe%2C%20Argentina",
+    "windowStart": "2026-09-13",
+    "windowEnd": "2026-09-26",
+    "events": [
+      {
+        "id": "2026-09-13-1200-premiaciones@chatgpt",
+        "uid": "2026-09-13-1200-premiaciones@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T12:00:00-03:00",
+        "endLocal": "2026-09-13T13:00:00-03:00",
+        "startTimeLabel": "12:00",
+        "endTimeLabel": "13:00",
+        "title": "Premiaciones",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-1400-dj@chatgpt",
+        "uid": "2026-09-13-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T14:00:00-03:00",
+        "endLocal": "2026-09-13T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-1500-la-centella@chatgpt",
+        "uid": "2026-09-13-1500-la-centella@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T15:00:00-03:00",
+        "endLocal": "2026-09-13T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "La Centella",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-1600-cada-cual@chatgpt",
+        "uid": "2026-09-13-1600-cada-cual@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T16:00:00-03:00",
+        "endLocal": "2026-09-13T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Cada Cual",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-1700-trick-and-the-thracket´s@chatgpt",
+        "uid": "2026-09-13-1700-trick-and-the-thracket´s@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T17:00:00-03:00",
+        "endLocal": "2026-09-13T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Trick and The Thracket´s",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-1900-skamas@chatgpt",
+        "uid": "2026-09-13-1900-skamas@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T19:00:00-03:00",
+        "endLocal": "2026-09-13T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Skamas",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-13-2000-natalie-perez@chatgpt",
+        "uid": "2026-09-13-2000-natalie-perez@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-13",
+        "startLocal": "2026-09-13T20:00:00-03:00",
+        "endLocal": "2026-09-13T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Natalie Perez",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-1400-dj@chatgpt",
+        "uid": "2026-09-14-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T14:00:00-03:00",
+        "endLocal": "2026-09-14T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-1500-dj@chatgpt",
+        "uid": "2026-09-14-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T15:00:00-03:00",
+        "endLocal": "2026-09-14T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-1600-chino-mansutti@chatgpt",
+        "uid": "2026-09-14-1600-chino-mansutti@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T16:00:00-03:00",
+        "endLocal": "2026-09-14T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Chino Mansutti",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-1700-maca-revolt@chatgpt",
+        "uid": "2026-09-14-1700-maca-revolt@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T17:00:00-03:00",
+        "endLocal": "2026-09-14T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Maca Revolt",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-1900-benja-amadeo@chatgpt",
+        "uid": "2026-09-14-1900-benja-amadeo@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T19:00:00-03:00",
+        "endLocal": "2026-09-14T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Benja Amadeo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-14-2000-dj-pipo@chatgpt",
+        "uid": "2026-09-14-2000-dj-pipo@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-14",
+        "startLocal": "2026-09-14T20:00:00-03:00",
+        "endLocal": "2026-09-14T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "DJ Pipo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-1400-dj@chatgpt",
+        "uid": "2026-09-15-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T14:00:00-03:00",
+        "endLocal": "2026-09-15T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-1500-dj@chatgpt",
+        "uid": "2026-09-15-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T15:00:00-03:00",
+        "endLocal": "2026-09-15T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-1600-agos-firpo@chatgpt",
+        "uid": "2026-09-15-1600-agos-firpo@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T16:00:00-03:00",
+        "endLocal": "2026-09-15T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Agos Firpo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-1700-dj@chatgpt",
+        "uid": "2026-09-15-1700-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T17:00:00-03:00",
+        "endLocal": "2026-09-15T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-1900-rizoma@chatgpt",
+        "uid": "2026-09-15-1900-rizoma@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T19:00:00-03:00",
+        "endLocal": "2026-09-15T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Rizoma",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-15-2000-totoras@chatgpt",
+        "uid": "2026-09-15-2000-totoras@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-15",
+        "startLocal": "2026-09-15T20:00:00-03:00",
+        "endLocal": "2026-09-15T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Totoras",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-1400-dj@chatgpt",
+        "uid": "2026-09-16-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T14:00:00-03:00",
+        "endLocal": "2026-09-16T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-1500-resuena@chatgpt",
+        "uid": "2026-09-16-1500-resuena@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T15:00:00-03:00",
+        "endLocal": "2026-09-16T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "Resuena",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-1600-plano-austral@chatgpt",
+        "uid": "2026-09-16-1600-plano-austral@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T16:00:00-03:00",
+        "endLocal": "2026-09-16T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Plano Austral",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-1700-la-chica-del-cumpleaños@chatgpt",
+        "uid": "2026-09-16-1700-la-chica-del-cumpleaños@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T17:00:00-03:00",
+        "endLocal": "2026-09-16T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "La Chica del Cumpleaños",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-1900-tipitos@chatgpt",
+        "uid": "2026-09-16-1900-tipitos@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T19:00:00-03:00",
+        "endLocal": "2026-09-16T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Tipitos",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-16-2000-uriel-lozano@chatgpt",
+        "uid": "2026-09-16-2000-uriel-lozano@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-16",
+        "startLocal": "2026-09-16T20:00:00-03:00",
+        "endLocal": "2026-09-16T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Uriel Lozano",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-1400-dj@chatgpt",
+        "uid": "2026-09-17-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T14:00:00-03:00",
+        "endLocal": "2026-09-17T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-1500-dj@chatgpt",
+        "uid": "2026-09-17-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T15:00:00-03:00",
+        "endLocal": "2026-09-17T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-1600-famélicos@chatgpt",
+        "uid": "2026-09-17-1600-famélicos@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T16:00:00-03:00",
+        "endLocal": "2026-09-17T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Famélicos",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-1700-galindez@chatgpt",
+        "uid": "2026-09-17-1700-galindez@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T17:00:00-03:00",
+        "endLocal": "2026-09-17T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Galindez",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-1900-dj@chatgpt",
+        "uid": "2026-09-17-1900-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T19:00:00-03:00",
+        "endLocal": "2026-09-17T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-17-2000-cabezones@chatgpt",
+        "uid": "2026-09-17-2000-cabezones@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-17",
+        "startLocal": "2026-09-17T20:00:00-03:00",
+        "endLocal": "2026-09-17T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Cabezones",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-1400-dj@chatgpt",
+        "uid": "2026-09-18-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T14:00:00-03:00",
+        "endLocal": "2026-09-18T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-1500-dj@chatgpt",
+        "uid": "2026-09-18-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T15:00:00-03:00",
+        "endLocal": "2026-09-18T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-1600-dj@chatgpt",
+        "uid": "2026-09-18-1600-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T16:00:00-03:00",
+        "endLocal": "2026-09-18T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-1700-zalsamora@chatgpt",
+        "uid": "2026-09-18-1700-zalsamora@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T17:00:00-03:00",
+        "endLocal": "2026-09-18T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Zalsamora",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-1900-cazadores-recolectores@chatgpt",
+        "uid": "2026-09-18-1900-cazadores-recolectores@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T19:00:00-03:00",
+        "endLocal": "2026-09-18T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Cazadores Recolectores",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-18-2000-santiago-motorizado@chatgpt",
+        "uid": "2026-09-18-2000-santiago-motorizado@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-18",
+        "startLocal": "2026-09-18T20:00:00-03:00",
+        "endLocal": "2026-09-18T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Santiago Motorizado",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1400-dj@chatgpt",
+        "uid": "2026-09-19-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T14:00:00-03:00",
+        "endLocal": "2026-09-19T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1500-dj@chatgpt",
+        "uid": "2026-09-19-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T15:00:00-03:00",
+        "endLocal": "2026-09-19T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1600-grupo-la-docena@chatgpt",
+        "uid": "2026-09-19-1600-grupo-la-docena@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T16:00:00-03:00",
+        "endLocal": "2026-09-19T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Grupo La Docena",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1700-código-inverso@chatgpt",
+        "uid": "2026-09-19-1700-código-inverso@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T17:00:00-03:00",
+        "endLocal": "2026-09-19T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Código Inverso",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1900-astrobonzo@chatgpt",
+        "uid": "2026-09-19-1900-astrobonzo@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T19:00:00-03:00",
+        "endLocal": "2026-09-19T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Astrobonzo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-2000-fiesta-bresh@chatgpt",
+        "uid": "2026-09-19-2000-fiesta-bresh@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T20:00:00-03:00",
+        "endLocal": "2026-09-19T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Fiesta Bresh",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1400-dj@chatgpt",
+        "uid": "2026-09-20-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T14:00:00-03:00",
+        "endLocal": "2026-09-20T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1500-dj@chatgpt",
+        "uid": "2026-09-20-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T15:00:00-03:00",
+        "endLocal": "2026-09-20T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1600-particulares@chatgpt",
+        "uid": "2026-09-20-1600-particulares@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T16:00:00-03:00",
+        "endLocal": "2026-09-20T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Particulares",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "uid": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T17:00:00-03:00",
+        "endLocal": "2026-09-20T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "La Tito Furcata",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1900-candela-fernández@chatgpt",
+        "uid": "2026-09-20-1900-candela-fernández@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T19:00:00-03:00",
+        "endLocal": "2026-09-20T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Candela Fernández",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
+        "uid": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-20",
+        "startLocal": "2026-09-20T20:00:00-03:00",
+        "endLocal": "2026-09-20T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Cinturón de Bonadeo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-1400-dj@chatgpt",
+        "uid": "2026-09-21-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T14:00:00-03:00",
+        "endLocal": "2026-09-21T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-1500-primavera-rock-(a-confirmar)@chatgpt",
+        "uid": "2026-09-21-1500-primavera-rock-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T15:00:00-03:00",
+        "endLocal": "2026-09-21T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "Primavera Rock (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-1600-primavera-rock-(a-confirmar)@chatgpt",
+        "uid": "2026-09-21-1600-primavera-rock-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T16:00:00-03:00",
+        "endLocal": "2026-09-21T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Primavera Rock (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-1700-primavera-rock-(a-confirmar)@chatgpt",
+        "uid": "2026-09-21-1700-primavera-rock-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T17:00:00-03:00",
+        "endLocal": "2026-09-21T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Primavera Rock (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-1900-primavera-rock-(a-confirmar)@chatgpt",
+        "uid": "2026-09-21-1900-primavera-rock-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T19:00:00-03:00",
+        "endLocal": "2026-09-21T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Primavera Rock (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-21-2000-nuestro-romance@chatgpt",
+        "uid": "2026-09-21-2000-nuestro-romance@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T20:00:00-03:00",
+        "endLocal": "2026-09-21T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Nuestro Romance",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-1400-dj@chatgpt",
+        "uid": "2026-09-22-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T14:00:00-03:00",
+        "endLocal": "2026-09-22T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-1500-resuena@chatgpt",
+        "uid": "2026-09-22-1500-resuena@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T15:00:00-03:00",
+        "endLocal": "2026-09-22T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "Resuena",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-1600-les-muum@chatgpt",
+        "uid": "2026-09-22-1600-les-muum@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T16:00:00-03:00",
+        "endLocal": "2026-09-22T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Les Muum",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-1700-dj@chatgpt",
+        "uid": "2026-09-22-1700-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T17:00:00-03:00",
+        "endLocal": "2026-09-22T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-1900-vomitan-glitter@chatgpt",
+        "uid": "2026-09-22-1900-vomitan-glitter@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T19:00:00-03:00",
+        "endLocal": "2026-09-22T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Vomitan Glitter",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-22-2000-mario-pereira-(a-confirmar)@chatgpt",
+        "uid": "2026-09-22-2000-mario-pereira-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-22",
+        "startLocal": "2026-09-22T20:00:00-03:00",
+        "endLocal": "2026-09-22T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Mario Pereira (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-1400-dj@chatgpt",
+        "uid": "2026-09-23-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T14:00:00-03:00",
+        "endLocal": "2026-09-23T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-1500-murga-chicharritas-(a-confirmar)@chatgpt",
+        "uid": "2026-09-23-1500-murga-chicharritas-(a-confirmar)@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T15:00:00-03:00",
+        "endLocal": "2026-09-23T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "Murga Chicharritas (a confirmar)",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-1600-rogelios@chatgpt",
+        "uid": "2026-09-23-1600-rogelios@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T16:00:00-03:00",
+        "endLocal": "2026-09-23T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Rogelios",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-1700-dj@chatgpt",
+        "uid": "2026-09-23-1700-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T17:00:00-03:00",
+        "endLocal": "2026-09-23T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
+        "uid": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T19:00:00-03:00",
+        "endLocal": "2026-09-23T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Tarro & The Baldes",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-23-2000-q'lokura@chatgpt",
+        "uid": "2026-09-23-2000-q'lokura@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-23",
+        "startLocal": "2026-09-23T20:00:00-03:00",
+        "endLocal": "2026-09-23T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Q'Lokura",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-1400-dj@chatgpt",
+        "uid": "2026-09-24-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T14:00:00-03:00",
+        "endLocal": "2026-09-24T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-1500-dj@chatgpt",
+        "uid": "2026-09-24-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T15:00:00-03:00",
+        "endLocal": "2026-09-24T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-1600-diamantina@chatgpt",
+        "uid": "2026-09-24-1600-diamantina@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T16:00:00-03:00",
+        "endLocal": "2026-09-24T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Diamantina",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-1700-laser-flip@chatgpt",
+        "uid": "2026-09-24-1700-laser-flip@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T17:00:00-03:00",
+        "endLocal": "2026-09-24T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Laser Flip",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-1900-indios@chatgpt",
+        "uid": "2026-09-24-1900-indios@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T19:00:00-03:00",
+        "endLocal": "2026-09-24T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Indios",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-2000-fiesta-polenta@chatgpt",
+        "uid": "2026-09-24-2000-fiesta-polenta@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T20:00:00-03:00",
+        "endLocal": "2026-09-24T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Fiesta Polenta",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-1400-dj@chatgpt",
+        "uid": "2026-09-25-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T14:00:00-03:00",
+        "endLocal": "2026-09-25T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-1500-dj@chatgpt",
+        "uid": "2026-09-25-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T15:00:00-03:00",
+        "endLocal": "2026-09-25T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-1600-bicha@chatgpt",
+        "uid": "2026-09-25-1600-bicha@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T16:00:00-03:00",
+        "endLocal": "2026-09-25T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Bicha",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-1700-los-gastro@chatgpt",
+        "uid": "2026-09-25-1700-los-gastro@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T17:00:00-03:00",
+        "endLocal": "2026-09-25T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Los Gastro",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-1900-experimento-negro@chatgpt",
+        "uid": "2026-09-25-1900-experimento-negro@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T19:00:00-03:00",
+        "endLocal": "2026-09-25T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Experimento Negro",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-25-2000-koino-yokan@chatgpt",
+        "uid": "2026-09-25-2000-koino-yokan@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T20:00:00-03:00",
+        "endLocal": "2026-09-25T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Koino Yokan",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-26-1400-dj@chatgpt",
+        "uid": "2026-09-26-1400-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T14:00:00-03:00",
+        "endLocal": "2026-09-26T15:00:00-03:00",
+        "startTimeLabel": "14:00",
+        "endTimeLabel": "15:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-26-1500-dj@chatgpt",
+        "uid": "2026-09-26-1500-dj@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T15:00:00-03:00",
+        "endLocal": "2026-09-26T16:00:00-03:00",
+        "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "DJ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-26-1600-coro-min-educ@chatgpt",
+        "uid": "2026-09-26-1600-coro-min-educ@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T16:00:00-03:00",
+        "endLocal": "2026-09-26T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Coro Min Educ",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-26-1900-virginia-tola@chatgpt",
+        "uid": "2026-09-26-1900-virginia-tola@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T19:00:00-03:00",
+        "endLocal": "2026-09-26T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Virginia Tola",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-26-2000-cacho-deicas@chatgpt",
+        "uid": "2026-09-26-2000-cacho-deicas@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T20:00:00-03:00",
+        "endLocal": "2026-09-26T21:00:00-03:00",
+        "startTimeLabel": "20:00",
+        "endTimeLabel": "21:00",
+        "title": "Cacho Deicas",
+        "stage": "Escenario 1"
+      }
+    ]
+  }
 }

@@ -9,6 +9,8 @@ import { mountFilters } from './ui/filters.js';
 import { mountWeekNav } from './ui/weekNav.js';
 import { mountGrid } from './ui/grid.js';
 import { renderSubscribeCalendar } from './ui/subscribeCalendar.js';
+import { mountFanfest } from './ui/fanfest.js';
+import { getIcsSource } from '../shared/icsSource.mjs';
 
 function buildLayout(root) {
   root.innerHTML = `
@@ -16,7 +18,7 @@ function buildLayout(root) {
       <header class="site-header">
         <div>
           <h1>🏅 Grilla ODESUR Santa Fe 2026</h1>
-          <p class="subtitle">Actividades de los Juegos Sudamericanos en la ciudad de Santa Fe</p>
+          <p class="subtitle">Actividades de los Juegos Suramericanos en la ciudad de Santa Fe</p>
         </div>
         <div class="header-actions"></div>
       </header>
@@ -26,6 +28,7 @@ function buildLayout(root) {
       <div class="week-nav-slot"></div>
       <div class="grid-scroll grid-slot"></div>
       <div class="drawer-slot"></div>
+      <div class="fanfest-slot"></div>
     </div>
   `;
   return {
@@ -36,6 +39,7 @@ function buildLayout(root) {
     weekNavSlot: root.querySelector('.week-nav-slot'),
     gridSlot: root.querySelector('.grid-slot'),
     drawerSlot: root.querySelector('.drawer-slot'),
+    fanfestSlot: root.querySelector('.fanfest-slot'),
   };
 }
 
@@ -72,10 +76,11 @@ function main() {
     ...(initialFromUrl.filters ? { filters: initialFromUrl.filters } : {}),
   });
 
-  renderSubscribeCalendar(slots.subscribeSlot);
+  renderSubscribeCalendar(slots.subscribeSlot, getIcsSource('odesur'));
   mountFilters(slots.filtersSlot, data);
   mountWeekNav(slots.weekNavSlot, weeks);
   mountGrid(slots.gridSlot, slots.drawerSlot, data, weeks);
+  mountFanfest(slots.fanfestSlot, data.fanfest, getIcsSource('fanfest'));
 
   startUrlSync();
 }

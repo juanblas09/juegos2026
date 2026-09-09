@@ -12,6 +12,16 @@ function buildSearchBlob(event) {
     .toLowerCase();
 }
 
+/** @type {Map<string, object[]>} date -> Fan Fest events that day */
+function buildFanfestEventsByDate(fanfestEvents) {
+  const byDate = new Map();
+  for (const event of fanfestEvents) {
+    if (!byDate.has(event.date)) byDate.set(event.date, []);
+    byDate.get(event.date).push(event);
+  }
+  return byDate;
+}
+
 function buildIndices(data) {
   const events = data.events.map((event) => ({ ...event, searchBlob: buildSearchBlob(event) }));
 
@@ -39,6 +49,10 @@ function buildIndices(data) {
     events,
     eventsByDate,
     eventsBySportAndDate,
+    fanfest: {
+      ...data.fanfest,
+      eventsByDate: buildFanfestEventsByDate(data.fanfest.events),
+    },
   };
 }
 
