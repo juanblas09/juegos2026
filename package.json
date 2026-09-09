@@ -1,0 +1,21 @@
+{
+  "name": "juegos2026",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Grilla de actividades de los Juegos Sudamericanos ODESUR Santa Fe 2026",
+  "type": "module",
+  "scripts": {
+    "fetch-data": "node scripts/parse-events.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate-and-build": "npm run fetch-data && npm run build",
+    "test": "node --test scripts/__tests__/"
+  },
+  "dependencies": {
+    "node-ical": "^0.20.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

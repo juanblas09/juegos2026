@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+PRODID:-//ODESUR Santa Fe 2026 fixture//sample//ES
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+UID:CSVConvertd45ed16e8fe53d1e4efc1fce32df8bc1
+DTSTAMP:20260908T213323Z
+DTSTART:20260916T120000Z
+DTEND:20260916T160000Z
+SUMMARY:⛵ Vela — Competencias
+LOCATION:Club de Niños Manuel Belgrano\, Almirante Guillermo Brown 6950\, Santa Fe
+DESCRIPTION:A partir de las 9 hs (horario de finalización estimado). Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert9e87afc70919b255b3cfd08af432a89c
+DTSTAMP:20260908T213323Z
+DTSTART:20260920T120000Z
+DTEND:20260920T170000Z
+SUMMARY:🎯🏅 Tiro Deportivo — 50m Rifle 3 Posiciones Masculino (Clasificación y Final)
+LOCATION:Invencible Centro Internacional de Tiro Deportivo\, Av. 1° de Junio 50\, Recreo
+DESCRIPTION:Jornada 9:00 a 14:00 hs. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert3ae46c9f17524242ea2ae46ba9100da7
+DTSTAMP:20260908T213323Z
+DTSTART:20260914T183000Z
+DTEND:20260914T200000Z
+SUMMARY:🎳 Bochas — Petanca\, 1ª Fase Clasificatoria (Grupo A: 1 vs. 2 — Grupo B: 4 vs. 5)
+LOCATION:Estación Belgrano\, Blvd. Gálvez 1150\, Santa Fe de la Vera Cruz
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6b45695d391f14e83d8e46898b668903
+DTSTAMP:20260908T213323Z
+DTSTART:20260917T143000Z
+DTEND:20260917T160000Z
+SUMMARY:🎳 Bochas — Volo Progresivo\, Final — Tiro Deportivo Masculino
+LOCATION:Estación Belgrano\, Blvd. Gálvez 1150\, Santa Fe de la Vera Cruz
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert3e90f30f090ba8056b16dda314e43a19
+DTSTAMP:20260908T213323Z
+DTSTART:20260923T100000Z
+DTEND:20260923T140000Z
+SUMMARY:🏃 Atletismo — Sesión Mañana
+LOCATION:CARD Centro de Alto Rendimiento Deportivo\, Santa Fe
+DESCRIPTION:Marcha Media Maratón (M) Final; 400 m c/vallas (M y F) Semis; 200 m (M y F) Semis; Bala (F) Final; Alto (M) Final; Decatlón: 110 m c/v\, Disco y Garrocha (M); 1500 m (M) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert8649651d018f0fe0213d7ffac3d27d69
+DTSTAMP:20260908T213323Z
+DTSTART:20260918T120000Z
+DTEND:20260918T140000Z
+SUMMARY:🏊 Triatlón — Competencia Relevos Mixtos
+LOCATION:Costanera Este\, Santa Fe
+DESCRIPTION:Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverteccbaee8de8521a709f42dda2089f340
+DTSTAMP:20260908T213323Z
+DTSTART:20260913T120000Z
+DTEND:20260913T150000Z
+SUMMARY:🏊🏅 Aguas Abiertas — 10 km (Femenino y Masculino)
+LOCATION:Lago Sur\, Santa Fe
+DESCRIPTION:Horario a definir. Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert7d6aa06932dfd671923f90a546ceabd0
+DTSTAMP:20260908T213323Z
+DTSTART:20260920T170000Z
+DTEND:20260920T184500Z
+SUMMARY:🏑 Hockey Femenino: 🇦🇷 Las Leonas vs. 🇵🇪 Perú
+LOCATION:Estadio ASH\, Raúl Tacca 707\, Santa Fe de la Vera Cruz\, Santa Fe
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert25747b5c252b4e4863edbe7579f95a62
+DTSTAMP:20260908T213323Z
+DTSTART:20260914T180000Z
+DTEND:20260914T194500Z
+SUMMARY:🏑 Hockey Masculino: 🇦🇷 Los Leones vs. 🇵🇪 Perú
+LOCATION:Estadio ASH\, Raúl Tacca 707\, Santa Fe de la Vera Cruz\, Santa Fe
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert157d5cfd541c256cee748652d3557f36
+DTSTAMP:20260908T213323Z
+DTSTART:20260922T184500Z
+DTEND:20260922T203000Z
+SUMMARY:🏑🥇 Hockey Femenino — Final (Oro): 1° vs. 2° lugar
+LOCATION:Estadio ASH\, Raúl Tacca 707\, Santa Fe de la Vera Cruz\, Santa Fe
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert1753de964b312b9da8c992992b7d5ca0
+DTSTAMP:20260908T213323Z
+DTSTART:20260922T120000Z
+DTEND:20260922T134500Z
+SUMMARY:🏑🥉 Hockey Masculino — Bronce: 3° vs. 4° lugar
+LOCATION:Estadio ASH\, Raúl Tacca 707\, Santa Fe de la Vera Cruz\, Santa Fe
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertf3acade3214c76d1da3c7e8135c7268b
+DTSTAMP:20260908T213323Z
+DTSTART:20260923T173000Z
+DTEND:20260923T190000Z
+SUMMARY:🤾 Balonmano Masculino: 🇵🇪 Perú vs. 🇺🇾 Uruguay
+LOCATION:Estadio CARD\, Raúl Tacca 707\, Santa Fe de la Vera Cruz\, Santa Fe
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert9af837744b8e624a96c9dbab850413e3
+DTSTAMP:20260908T213323Z
+DTSTART:20260915T210000Z
+DTEND:20260915T230000Z
+SUMMARY:🥎 Softbol Femenino: 🇦🇷 Argentina vs. 🇧🇴 Bolivia
+LOCATION:Estadio Mundialista de Softbol\, Juan Ambrosetti\, Paraná\, Entre Ríos
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert811803f1349a7509fbc6d75bfad4a82a
+DTSTAMP:20260908T213323Z
+DTSTART:20260919T220000Z
+DTEND:20260920T000000Z
+SUMMARY:🥎🥇 Softbol Femenino — Medalla de Oro: 2do vs. 1ro
+LOCATION:Estadio Mundialista de Softbol\, Juan Ambrosetti\, Paraná\, Entre Ríos
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b
+DTSTAMP:20260908T213323Z
+DTSTART:20261209T030000Z
+DTEND:20261210T030000Z
+SUMMARY:🎱 Billar Carambola — Competencias
+LOCATION:Centro Español\, Santa Fe
+DESCRIPTION:Horario a definir. Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert5255d4a87c4aa5404545bfa0ab55ed1e
+DTSTAMP:20260908T213323Z
+DTSTART:20260922T130000Z
+DTEND:20260922T160000Z
+SUMMARY:🧗 Escalada — Clasificatoria Bloque (Femenino)
+LOCATION:ISEF N 27\, Raúl Tacca 707\, Santa Fe
+DESCRIPTION:Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert5a25292ad0e74cd02b5b47ecc725106c
+DTSTAMP:20260908T213323Z
+DTSTART:20260919T203000Z
+DTEND:20260919T213000Z
+SUMMARY:🎿 Esquí Náutico y Wakeboard — Premiación Overall (Ambos)
+LOCATION:Lago Sur\, Santa Fe
+DESCRIPTION:Entrada libre y gratuita.
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert0faa1789ef5bf5eb86b81352a8e45579
+DTSTAMP:20260908T213323Z
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+SUMMARY:🥎🥉 Softbol Masculino — Medalla de Bronce: 4to vs. 3ro
+LOCATION:Estadio Mundialista de Softbol\, Juan Ambrosetti\, Paraná\, Entre Ríos
+DESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.
+END:VEVENT
+END:VCALENDAR
