@@ -1,19 +1,15 @@
-// Downloads the raw .ics text from the public ODESUR Santa Fe 2026 Google Calendar
-// feed. Node-first, no dependencies beyond the global fetch() (Node 18+).
+// Downloads the raw .ics text from a public Google Calendar feed. Node-first,
+// no dependencies beyond the global fetch() (Node 18+).
 //
-// The feed has no Access-Control-Allow-Origin header, so this can only ever be
-// called from a build-time/server context (this script, run by the GitHub Action),
-// never from browser JS.
-
-import { ICS_URL } from '../shared/icsSource.mjs';
-
-export { ICS_URL };
+// These feeds have no Access-Control-Allow-Origin header, so this can only
+// ever be called from a build-time/server context (this script, run by the
+// GitHub Action), never from browser JS.
 
 /**
- * @param {string} [url]
+ * @param {string} url
  * @returns {Promise<string>} raw .ics text
  */
-export async function fetchIcs(url = ICS_URL) {
+export async function fetchIcs(url) {
   let response;
   try {
     response = await fetch(url);
