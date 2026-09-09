@@ -5,8 +5,9 @@
 // called from a build-time/server context (this script, run by the GitHub Action),
 // never from browser JS.
 
-export const ICS_URL =
-  'https://calendar.google.com/calendar/ical/83c9b716438a58b7f8aeef7d624eb33e23533ca34c896adf0bb3fded075c8757%40group.calendar.google.com/public/basic.ics';
+import { ICS_URL } from '../shared/icsSource.mjs';
+
+export { ICS_URL };
 
 /**
  * @param {string} [url]

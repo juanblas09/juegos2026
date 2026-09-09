@@ -8,6 +8,7 @@ import { renderEndedBanner } from './ui/endedBanner.js';
 import { mountFilters } from './ui/filters.js';
 import { mountWeekNav } from './ui/weekNav.js';
 import { mountGrid } from './ui/grid.js';
+import { renderSubscribeCalendar } from './ui/subscribeCalendar.js';
 
 function buildLayout(root) {
   root.innerHTML = `
@@ -20,6 +21,7 @@ function buildLayout(root) {
         <div class="header-actions"></div>
       </header>
       <div class="banners"></div>
+      <div class="subscribe-slot"></div>
       <div class="filters-slot"></div>
       <div class="week-nav-slot"></div>
       <div class="grid-scroll grid-slot"></div>
@@ -29,6 +31,7 @@ function buildLayout(root) {
   return {
     headerActions: root.querySelector('.header-actions'),
     banners: root.querySelector('.banners'),
+    subscribeSlot: root.querySelector('.subscribe-slot'),
     filtersSlot: root.querySelector('.filters-slot'),
     weekNavSlot: root.querySelector('.week-nav-slot'),
     gridSlot: root.querySelector('.grid-slot'),
@@ -69,6 +72,7 @@ function main() {
     ...(initialFromUrl.filters ? { filters: initialFromUrl.filters } : {}),
   });
 
+  renderSubscribeCalendar(slots.subscribeSlot);
   mountFilters(slots.filtersSlot, data);
   mountWeekNav(slots.weekNavSlot, weeks);
   mountGrid(slots.gridSlot, slots.drawerSlot, data, weeks);
