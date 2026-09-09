@@ -79,7 +79,7 @@ function fallbackId(summary, start) {
     .slice(0, 16);
 }
 
-function transformEvent(vevent, generatedAt) {
+function transformEvent(vevent) {
   const summaryRaw = vevent.summary ?? '';
   const location = vevent.location ?? '';
   const description = (vevent.description ?? '').trim();
@@ -123,7 +123,16 @@ function transformEvent(vevent, generatedAt) {
       location,
       start,
       end,
-      dtstamp: generatedAt,
+      // NOT vevent.dtstamp: the source feed re-stamps DTSTAMP with its own
+      // export time on every request (verified empirically - it changes
+      // between two fetches seconds apart even when the event itself is
+      // unchanged), so it's just as volatile as using "now" would be. RFC5545
+      // doesn't require this to be semantically meaningful for a re-generated
+      // .ics, so we use the event's own (stable, deterministic) start time
+      // instead - this keeps icsContent byte-identical across runs whenever
+      // the event's actual data hasn't changed, which is what lets CI's
+      // "commit only if changed" step correctly no-op.
+      dtstamp: start,
     }),
   };
 }
@@ -137,7 +146,6 @@ async function loadRawIcs({ useFixture }) {
 
 async function main() {
   const useFixture = process.argv.includes('--fixture');
-  const generatedAt = new Date();
 
   const rawIcs = await loadRawIcs({ useFixture });
   const parsedIcal = await ical.async.parseICS(rawIcs);
@@ -148,8 +156,13 @@ async function main() {
   }
 
   const events = vevents
-    .map((vevent) => transformEvent(vevent, generatedAt))
-    .sort((a, b) => a.startLocal.localeCompare(b.startLocal));
+    .map((vevent) => transformEvent(vevent))
+    // Secondary sort by `id` breaks ties deterministically: two events at the
+    // exact same start time can otherwise flip order between runs, because
+    // Google's feed doesn't guarantee stable VEVENT ordering across requests -
+    // which would cause a spurious diff (and CI commit) even when nothing
+    // about the schedule actually changed.
+    .sort((a, b) => a.startLocal.localeCompare(b.startLocal) || a.id.localeCompare(b.id));
 
   const sports = [...new Set(events.map((e) => e.sport))].sort((a, b) => a.localeCompare(b, 'es'));
 
@@ -170,14 +183,27 @@ async function main() {
   const windowStart = dates[0];
   const windowEnd = dates[dates.length - 1];
 
-  const output = {
-    generatedAt: generatedAt.toISOString(),
-    windowStart,
-    windowEnd,
-    sports,
-    venues,
-    events,
-  };
+  const content = { windowStart, windowEnd, sports, venues, events };
+
+  // `generatedAt` only advances when the actual content changed. Every field
+  // above is now purely derived from the source calendar (no "now" timestamps
+  // baked in - see the DTSTAMP comment in transformEvent), so two runs against
+  // an unchanged source produce byte-identical `content`, and re-using the old
+  // `generatedAt` keeps data/events.json byte-identical too - which is what
+  // lets the CI workflow's "commit only if changed" step correctly no-op
+  // instead of redeploying every 6 hours regardless of real changes.
+  let generatedAt = new Date().toISOString();
+  try {
+    const previous = JSON.parse(await fs.readFile(OUTPUT_PATH, 'utf8'));
+    const { generatedAt: previousGeneratedAt, ...previousContent } = previous;
+    if (JSON.stringify(previousContent) === JSON.stringify(content)) {
+      generatedAt = previousGeneratedAt;
+    }
+  } catch {
+    // No previous file (first run ever) - keep the fresh timestamp.
+  }
+
+  const output = { generatedAt, ...content };
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
