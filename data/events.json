@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T19:33:08.798Z",
+  "generatedAt": "2026-09-10T20:26:46.699Z",
   "windowStart": "2026-09-13",
   "windowEnd": "2026-12-08",
   "sports": [
@@ -5453,27 +5453,27 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-15-1600-agos-firpo@chatgpt",
-        "uid": "2026-09-15-1600-agos-firpo@chatgpt",
+        "id": "2026-09-15-1700-dj@chatgpt",
+        "uid": "2026-09-15-1700-dj@chatgpt",
         "source": "fanfest",
         "date": "2026-09-15",
         "startLocal": "2026-09-15T16:00:00-03:00",
         "endLocal": "2026-09-15T17:00:00-03:00",
         "startTimeLabel": "16:00",
         "endTimeLabel": "17:00",
-        "title": "Agos Firpo",
+        "title": "DJ",
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-15-1700-dj@chatgpt",
-        "uid": "2026-09-15-1700-dj@chatgpt",
+        "id": "2026-09-15-1600-agos-firpo@chatgpt",
+        "uid": "2026-09-15-1600-agos-firpo@chatgpt",
         "source": "fanfest",
         "date": "2026-09-15",
         "startLocal": "2026-09-15T17:00:00-03:00",
         "endLocal": "2026-09-15T18:00:00-03:00",
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
-        "title": "DJ",
+        "title": "Agos Firpo",
         "stage": "Escenario 1"
       },
       {
@@ -5481,10 +5481,10 @@
         "uid": "2026-09-15-1900-rizoma@chatgpt",
         "source": "fanfest",
         "date": "2026-09-15",
-        "startLocal": "2026-09-15T19:00:00-03:00",
-        "endLocal": "2026-09-15T20:00:00-03:00",
-        "startTimeLabel": "19:00",
-        "endTimeLabel": "20:00",
+        "startLocal": "2026-09-15T18:00:00-03:00",
+        "endLocal": "2026-09-15T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
         "title": "Rizoma",
         "stage": "Escenario 1"
       },
@@ -6001,7 +6001,7 @@
         "endLocal": "2026-09-22T21:00:00-03:00",
         "startTimeLabel": "20:00",
         "endTimeLabel": "21:00",
-        "title": "Mario Pereira (a confirmar)",
+        "title": "Mario Pereira",
         "stage": "Escenario 1"
       },
       {
