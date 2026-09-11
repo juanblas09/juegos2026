@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:26:46.699Z",
+  "generatedAt": "2026-09-11T03:07:09.352Z",
   "windowStart": "2026-09-13",
   "windowEnd": "2026-12-08",
   "sports": [
@@ -5313,10 +5313,10 @@
         "uid": "2026-09-13-1600-cada-cual@chatgpt",
         "source": "fanfest",
         "date": "2026-09-13",
-        "startLocal": "2026-09-13T16:00:00-03:00",
-        "endLocal": "2026-09-13T17:00:00-03:00",
-        "startTimeLabel": "16:00",
-        "endTimeLabel": "17:00",
+        "startLocal": "2026-09-13T17:00:00-03:00",
+        "endLocal": "2026-09-13T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
         "title": "Cada Cual",
         "stage": "Escenario 1"
       },
@@ -5325,10 +5325,10 @@
         "uid": "2026-09-13-1700-trick-and-the-thracket´s@chatgpt",
         "source": "fanfest",
         "date": "2026-09-13",
-        "startLocal": "2026-09-13T17:00:00-03:00",
-        "endLocal": "2026-09-13T18:00:00-03:00",
-        "startTimeLabel": "17:00",
-        "endTimeLabel": "18:00",
+        "startLocal": "2026-09-13T18:00:00-03:00",
+        "endLocal": "2026-09-13T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
         "title": "Trick and The Thracket´s",
         "stage": "Escenario 1"
       },
