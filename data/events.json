@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-11T03:07:09.352Z",
-  "windowStart": "2026-09-13",
+  "generatedAt": "2026-09-12T03:13:51.343Z",
+  "windowStart": "2026-09-12",
   "windowEnd": "2026-12-08",
   "sports": [
     "Aguas Abiertas",
     "Atletismo",
     "Balonmano",
+    "Billar",
     "Billar Carambola",
     "Bochas",
     "Canotaje Slalom",
@@ -32,6 +33,12 @@
       "name": "Centro Español",
       "address": "Santa Fe",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
+      "isOutOfCity": false
+    },
+    {
+      "name": "Centro Español y Biblioteca Popular",
+      "address": "San Martín 2219, S3000 FRX, Santa Fe, Argentina",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%20y%20Biblioteca%20Popular%2C%20San%20Mart%C3%ADn%202219%2C%20S3000%20FRX%2C%20Santa%20Fe%2C%20Argentina",
       "isOutOfCity": false
     },
     {
@@ -96,6 +103,31 @@
     }
   ],
   "events": [
+    {
+      "id": "65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com",
+      "uid": "65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com",
+      "source": "odesur",
+      "date": "2026-09-12",
+      "startLocal": "2026-09-12T09:00:00-03:00",
+      "endLocal": "2026-09-12T19:00:00-03:00",
+      "startTimeLabel": "09:00",
+      "endTimeLabel": "19:00",
+      "sport": "Billar",
+      "sportRaw": "🎱 Billar",
+      "gender": null,
+      "teams": [],
+      "phase": null,
+      "titleDisplay": "Billar",
+      "titleComposed": "Billar",
+      "parsed": true,
+      "venueName": "Centro Español y Biblioteca Popular",
+      "venueAddress": "San Martín 2219, S3000 FRX, Santa Fe, Argentina",
+      "isOutOfCity": false,
+      "description": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%20y%20Biblioteca%20Popular%2C%20San%20Mart%C3%ADn%202219%2C%20S3000%20FRX%2C%20Santa%20Fe%2C%20Argentina",
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar&dates=20260912T120000Z%2F20260912T220000Z&details=&location=Centro+Espa%C3%B1ol+y+Biblioteca+Popular%2C+San+Mart%C3%ADn+2219%2C+S3000+FRX%2C+Santa+Fe%2C+Argentina",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com\r\nDTSTAMP:20260912T120000Z\r\nDTSTART:20260912T120000Z\r\nDTEND:20260912T220000Z\r\nSUMMARY:Billar\r\nLOCATION:Centro Español y Biblioteca Popular\\, San Martín 2219\\, S3000 FRX\\, Santa Fe\\, Argentina\r\nDESCRIPTION:\r\nEND:VEVENT\r\nEND:VCALENDAR"
+    },
     {
       "id": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
       "uid": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
