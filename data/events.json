@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-12T03:13:51.343Z",
+  "generatedAt": "2026-09-13T15:39:04.052Z",
   "windowStart": "2026-09-12",
-  "windowEnd": "2026-12-08",
+  "windowEnd": "2026-09-26",
   "sports": [
     "Aguas Abiertas",
     "Atletismo",
     "Balonmano",
-    "Billar",
     "Billar Carambola",
     "Bochas",
     "Canotaje Slalom",
@@ -33,12 +32,6 @@
       "name": "Centro Español",
       "address": "Santa Fe",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
-      "isOutOfCity": false
-    },
-    {
-      "name": "Centro Español y Biblioteca Popular",
-      "address": "San Martín 2219, S3000 FRX, Santa Fe, Argentina",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%20y%20Biblioteca%20Popular%2C%20San%20Mart%C3%ADn%202219%2C%20S3000%20FRX%2C%20Santa%20Fe%2C%20Argentina",
       "isOutOfCity": false
     },
     {
@@ -104,29 +97,29 @@
   ],
   "events": [
     {
-      "id": "65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com",
-      "uid": "65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com",
+      "id": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
+      "uid": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
       "source": "odesur",
       "date": "2026-09-12",
       "startLocal": "2026-09-12T09:00:00-03:00",
       "endLocal": "2026-09-12T19:00:00-03:00",
       "startTimeLabel": "09:00",
       "endTimeLabel": "19:00",
-      "sport": "Billar",
-      "sportRaw": "🎱 Billar",
+      "sport": "Billar Carambola",
+      "sportRaw": "🎱 Billar Carambola — Competencias",
       "gender": null,
       "teams": [],
-      "phase": null,
-      "titleDisplay": "Billar",
-      "titleComposed": "Billar",
+      "phase": "Competencias",
+      "titleDisplay": "Billar Carambola — Competencias",
+      "titleComposed": "Billar Carambola — Competencias",
       "parsed": true,
-      "venueName": "Centro Español y Biblioteca Popular",
-      "venueAddress": "San Martín 2219, S3000 FRX, Santa Fe, Argentina",
+      "venueName": "Centro Español",
+      "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%20y%20Biblioteca%20Popular%2C%20San%20Mart%C3%ADn%202219%2C%20S3000%20FRX%2C%20Santa%20Fe%2C%20Argentina",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar&dates=20260912T120000Z%2F20260912T220000Z&details=&location=Centro+Espa%C3%B1ol+y+Biblioteca+Popular%2C+San+Mart%C3%ADn+2219%2C+S3000+FRX%2C+Santa+Fe%2C+Argentina",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:65gjaoho65im4bb36hj3eb9k60r3ib9oc8q3eb9jcgpjgo9gc4oj6c31cc@google.com\r\nDTSTAMP:20260912T120000Z\r\nDTSTART:20260912T120000Z\r\nDTEND:20260912T220000Z\r\nSUMMARY:Billar\r\nLOCATION:Centro Español y Biblioteca Popular\\, San Martín 2219\\, S3000 FRX\\, Santa Fe\\, Argentina\r\nDESCRIPTION:\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "description": "Entrada libre y gratuita.",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20260912T120000Z%2F20260912T220000Z&details=Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20260912T120000Z\r\nDTSTART:20260912T120000Z\r\nDTEND:20260912T220000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
@@ -138,7 +131,7 @@
       "startTimeLabel": "09:00",
       "endTimeLabel": "10:45",
       "sport": "Hockey",
-      "sportRaw": "🏑 Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay",
+      "sportRaw": "🏑 Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
       "gender": "Femenino",
       "teams": [
         {
@@ -147,20 +140,20 @@
         },
         {
           "flagEmoji": "🇵🇾",
-          "name": "Paraguay"
+          "name": "Paraguay (16 - 0)"
         }
       ],
       "phase": null,
-      "titleDisplay": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay",
-      "titleComposed": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay",
+      "titleDisplay": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
+      "titleComposed": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
       "parsed": true,
       "venueName": "Estadio ASH",
       "venueAddress": "Raúl Tacca 707, Santa Fe de la Vera Cruz, Santa Fe",
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%BE+Paraguay&dates=20260913T120000Z%2F20260913T134500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertdfde98e22e277a00e43501b4eec42c06\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T134500Z\r\nSUMMARY:Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%BE+Paraguay+%2816+-+0%29&dates=20260913T120000Z%2F20260913T134500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertdfde98e22e277a00e43501b4eec42c06\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T134500Z\r\nSUMMARY:Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConverteccbaee8de8521a709f42dda2089f340",
@@ -182,10 +175,10 @@
       "venueName": "Lago Sur",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "Horario a definir. Entrada libre y gratuita.",
+      "description": "Masculino:<br>🥇 🇧🇷 <b>DE FREITAS </b>Matheus<br>🥈 🇪🇨 <b>FARINANGO </b>David<br>🥉 🇧🇷 <b>RODRIGUES </b>Victor<br><br>Femenino:<br>🥇 🇧🇷 <b>CUNHA</b> Ana<br>🥈 🇧🇷 <b>EICHELBERGER </b>Viviane<br>🥉 🇦🇷 <b>IMWINKELRIED</b> Romina",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago%20Sur%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aguas+Abiertas+Mixto+%E2%80%94+10+km+%28Femenino+y+Masculino%29&dates=20260913T120000Z%2F20260913T150000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Lago+Sur%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverteccbaee8de8521a709f42dda2089f340\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T150000Z\r\nSUMMARY:Aguas Abiertas Mixto — 10 km (Femenino y Masculino)\r\nLOCATION:Lago Sur\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aguas+Abiertas+Mixto+%E2%80%94+10+km+%28Femenino+y+Masculino%29&dates=20260913T120000Z%2F20260913T150000Z&details=Masculino%3A%3Cbr%3E%F0%9F%A5%87%C2%A0%F0%9F%87%A7%F0%9F%87%B7%C2%A0%3Cb%3EDE+FREITAS%C2%A0%3C%2Fb%3EMatheus%3Cbr%3E%F0%9F%A5%88+%F0%9F%87%AA%F0%9F%87%A8%C2%A0%3Cb%3EFARINANGO+%3C%2Fb%3EDavid%3Cbr%3E%F0%9F%A5%89+%F0%9F%87%A7%F0%9F%87%B7%C2%A0%3Cb%3ERODRIGUES%C2%A0%3C%2Fb%3EVictor%3Cbr%3E%3Cbr%3EFemenino%3A%3Cbr%3E%F0%9F%A5%87%C2%A0%F0%9F%87%A7%F0%9F%87%B7+%3Cb%3ECUNHA%3C%2Fb%3E+Ana%3Cbr%3E%F0%9F%A5%88+%F0%9F%87%A7%F0%9F%87%B7%C2%A0%3Cb%3EEICHELBERGER%C2%A0%3C%2Fb%3EViviane%3Cbr%3E%F0%9F%A5%89+%F0%9F%87%A6%F0%9F%87%B7%C2%A0%3Cb%3EIMWINKELRIED%3C%2Fb%3E%C2%A0Romina&location=Lago+Sur%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverteccbaee8de8521a709f42dda2089f340\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T150000Z\r\nSUMMARY:Aguas Abiertas Mixto — 10 km (Femenino y Masculino)\r\nLOCATION:Lago Sur\\, Santa Fe\r\nDESCRIPTION:Masculino:<br>🥇 🇧🇷 <b>DE FREITAS </b>Matheus<br>🥈 🇪🇨 <b>FARINANGO </b>David<br>🥉 🇧🇷 <b>RODRIGUES </b>Victor<br><br>Femenino:<br>🥇 🇧🇷 <b>CUNHA</b> Ana<br>🥈 🇧🇷 <b>EICHELBERGER </b>Viviane<br>🥉 🇦🇷 <b>IMWINKELRIED</b> Romina\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConverte496c9283a6bfaa78350b21b77b9651a",
@@ -193,9 +186,9 @@
       "source": "odesur",
       "date": "2026-09-13",
       "startLocal": "2026-09-13T11:00:00-03:00",
-      "endLocal": "2026-09-13T12:00:00-03:00",
+      "endLocal": "2026-09-13T12:45:00-03:00",
       "startTimeLabel": "11:00",
-      "endTimeLabel": "12:00",
+      "endTimeLabel": "12:45",
       "sport": "Hockey",
       "sportRaw": "🏑 Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú",
       "gender": "Masculino",
@@ -218,8 +211,8 @@
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA&dates=20260913T140000Z%2F20260913T150000Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverte496c9283a6bfaa78350b21b77b9651a\r\nDTSTAMP:20260913T140000Z\r\nDTSTART:20260913T140000Z\r\nDTEND:20260913T150000Z\r\nSUMMARY:Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA&dates=20260913T140000Z%2F20260913T154500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverte496c9283a6bfaa78350b21b77b9651a\r\nDTSTAMP:20260913T140000Z\r\nDTSTART:20260913T140000Z\r\nDTEND:20260913T154500Z\r\nSUMMARY:Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a",
@@ -5270,31 +5263,6 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20CARD%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
       "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Balonmano+Masculino%3A+%F0%9F%87%A6%F0%9F%87%B7+Argentina+vs.+%F0%9F%87%A8%F0%9F%87%B1+Chile&dates=20260926T223000Z%2F20260927T000000Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+CARD%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
       "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertf57eb56efaf296811703490fc9703589\r\nDTSTAMP:20260926T223000Z\r\nDTSTART:20260926T223000Z\r\nDTEND:20260927T000000Z\r\nSUMMARY:Balonmano Masculino: 🇦🇷 Argentina vs. 🇨🇱 Chile\r\nLOCATION:Estadio CARD\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
-    },
-    {
-      "id": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
-      "uid": "CSVConvert3b219bff5d2fb698a26837c3b36f5a6b",
-      "source": "odesur",
-      "date": "2026-12-08",
-      "startLocal": "2026-12-08T21:00:00-03:00",
-      "endLocal": "2026-12-09T21:00:00-03:00",
-      "startTimeLabel": "21:00",
-      "endTimeLabel": "21:00",
-      "sport": "Billar Carambola",
-      "sportRaw": "🎱 Billar Carambola — Competencias",
-      "gender": null,
-      "teams": [],
-      "phase": "Competencias",
-      "titleDisplay": "Billar Carambola — Competencias",
-      "titleComposed": "Billar Carambola — Competencias",
-      "parsed": true,
-      "venueName": "Centro Español",
-      "venueAddress": "Santa Fe",
-      "isOutOfCity": false,
-      "description": "Horario a definir. Entrada libre y gratuita.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20261209T000000Z%2F20261210T000000Z&details=Horario+a+definir.+Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20261209T000000Z\r\nDTSTART:20261209T000000Z\r\nDTEND:20261210T000000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Horario a definir. Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     }
   ],
   "fanfest": {
