@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:39:04.052Z",
+  "generatedAt": "2026-09-13T20:21:22.544Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -116,10 +116,10 @@
       "venueName": "Centro Español",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "Entrada libre y gratuita.",
+      "description": "🥇 🇦🇷 <b>TORREGIANI </b>Gustavo",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro%20Espa%C3%B1ol%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20260912T120000Z%2F20260912T220000Z&details=Entrada+libre+y+gratuita.&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20260912T120000Z\r\nDTSTART:20260912T120000Z\r\nDTEND:20260912T220000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Billar+Carambola+%E2%80%94+Competencias&dates=20260912T120000Z%2F20260912T220000Z&details=%F0%9F%A5%87%C2%A0%F0%9F%87%A6%F0%9F%87%B7+%3Cb%3ETORREGIANI+%3C%2Fb%3EGustavo&location=Centro+Espa%C3%B1ol%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3b219bff5d2fb698a26837c3b36f5a6b\r\nDTSTAMP:20260912T120000Z\r\nDTSTART:20260912T120000Z\r\nDTEND:20260912T220000Z\r\nSUMMARY:Billar Carambola — Competencias\r\nLOCATION:Centro Español\\, Santa Fe\r\nDESCRIPTION:🥇 🇦🇷 <b>TORREGIANI </b>Gustavo\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertdfde98e22e277a00e43501b4eec42c06",
@@ -131,7 +131,7 @@
       "startTimeLabel": "09:00",
       "endTimeLabel": "10:45",
       "sport": "Hockey",
-      "sportRaw": "🏑 Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
+      "sportRaw": "🏑 Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16-0)",
       "gender": "Femenino",
       "teams": [
         {
@@ -140,20 +140,20 @@
         },
         {
           "flagEmoji": "🇵🇾",
-          "name": "Paraguay (16 - 0)"
+          "name": "Paraguay (16-0)"
         }
       ],
       "phase": null,
-      "titleDisplay": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
-      "titleComposed": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)",
+      "titleDisplay": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16-0)",
+      "titleComposed": "Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16-0)",
       "parsed": true,
       "venueName": "Estadio ASH",
       "venueAddress": "Raúl Tacca 707, Santa Fe de la Vera Cruz, Santa Fe",
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%BE+Paraguay+%2816+-+0%29&dates=20260913T120000Z%2F20260913T134500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertdfde98e22e277a00e43501b4eec42c06\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T134500Z\r\nSUMMARY:Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16 - 0)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%BE+Paraguay+%2816-0%29&dates=20260913T120000Z%2F20260913T134500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertdfde98e22e277a00e43501b4eec42c06\r\nDTSTAMP:20260913T120000Z\r\nDTSTART:20260913T120000Z\r\nDTEND:20260913T134500Z\r\nSUMMARY:Hockey Femenino: 🇨🇱 Chile vs. 🇵🇾 Paraguay (16-0)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConverteccbaee8de8521a709f42dda2089f340",
@@ -190,7 +190,7 @@
       "startTimeLabel": "11:00",
       "endTimeLabel": "12:45",
       "sport": "Hockey",
-      "sportRaw": "🏑 Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú",
+      "sportRaw": "🏑 Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú (7-0)",
       "gender": "Masculino",
       "teams": [
         {
@@ -199,20 +199,20 @@
         },
         {
           "flagEmoji": "🇵🇪",
-          "name": "Perú"
+          "name": "Perú (7-0)"
         }
       ],
       "phase": null,
-      "titleDisplay": "Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú",
-      "titleComposed": "Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú",
+      "titleDisplay": "Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú (7-0)",
+      "titleComposed": "Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú (7-0)",
       "parsed": true,
       "venueName": "Estadio ASH",
       "venueAddress": "Raúl Tacca 707, Santa Fe de la Vera Cruz, Santa Fe",
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA&dates=20260913T140000Z%2F20260913T154500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverte496c9283a6bfaa78350b21b77b9651a\r\nDTSTAMP:20260913T140000Z\r\nDTSTART:20260913T140000Z\r\nDTEND:20260913T154500Z\r\nSUMMARY:Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A8%F0%9F%87%B1+Chile+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA+%287-0%29&dates=20260913T140000Z%2F20260913T154500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConverte496c9283a6bfaa78350b21b77b9651a\r\nDTSTAMP:20260913T140000Z\r\nDTSTART:20260913T140000Z\r\nDTEND:20260913T154500Z\r\nSUMMARY:Hockey Masculino: 🇨🇱 Chile vs. 🇵🇪 Perú (7-0)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a",
@@ -224,7 +224,7 @@
       "startTimeLabel": "14:00",
       "endTimeLabel": "15:45",
       "sport": "Hockey",
-      "sportRaw": "🏑 Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú",
+      "sportRaw": "🏑 Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú (12-0)",
       "gender": "Femenino",
       "teams": [
         {
@@ -233,20 +233,20 @@
         },
         {
           "flagEmoji": "🇵🇪",
-          "name": "Perú"
+          "name": "Perú (12-0)"
         }
       ],
       "phase": null,
-      "titleDisplay": "Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú",
-      "titleComposed": "Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú",
+      "titleDisplay": "Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú (12-0)",
+      "titleComposed": "Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú (12-0)",
       "parsed": true,
       "venueName": "Estadio ASH",
       "venueAddress": "Raúl Tacca 707, Santa Fe de la Vera Cruz, Santa Fe",
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%BA%F0%9F%87%BE+Uruguay+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA&dates=20260913T170000Z%2F20260913T184500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a\r\nDTSTAMP:20260913T170000Z\r\nDTSTART:20260913T170000Z\r\nDTEND:20260913T184500Z\r\nSUMMARY:Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Femenino%3A+%F0%9F%87%BA%F0%9F%87%BE+Uruguay+vs.+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA+%2812-0%29&dates=20260913T170000Z%2F20260913T184500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertcd9b12ab9d5e3b8ddbf4fa13084d2e7a\r\nDTSTAMP:20260913T170000Z\r\nDTSTART:20260913T170000Z\r\nDTEND:20260913T184500Z\r\nSUMMARY:Hockey Femenino: 🇺🇾 Uruguay vs. 🇵🇪 Perú (12-0)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert17f92861197f70958d5938d75a108703",
