@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:21:22.544Z",
+  "generatedAt": "2026-09-14T03:29:36.272Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -258,7 +258,7 @@
       "startTimeLabel": "16:00",
       "endTimeLabel": "17:45",
       "sport": "Hockey",
-      "sportRaw": "🏑 Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay",
+      "sportRaw": "🏑 Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay (3-2)",
       "gender": "Masculino",
       "teams": [
         {
@@ -267,20 +267,20 @@
         },
         {
           "flagEmoji": "🇺🇾",
-          "name": "Uruguay"
+          "name": "Uruguay (3-2)"
         }
       ],
       "phase": null,
-      "titleDisplay": "Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay",
-      "titleComposed": "Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay",
+      "titleDisplay": "Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay (3-2)",
+      "titleComposed": "Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay (3-2)",
       "parsed": true,
       "venueName": "Estadio ASH",
       "venueAddress": "Raúl Tacca 707, Santa Fe de la Vera Cruz, Santa Fe",
       "isOutOfCity": false,
       "description": "Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Estadio%20ASH%2C%20Ra%C3%BAl%20Tacca%20707%2C%20Santa%20Fe%20de%20la%20Vera%20Cruz%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A7%F0%9F%87%B7+Brasil+vs.+%F0%9F%87%BA%F0%9F%87%BE+Uruguay&dates=20260913T190000Z%2F20260913T204500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert17f92861197f70958d5938d75a108703\r\nDTSTAMP:20260913T190000Z\r\nDTSTART:20260913T190000Z\r\nDTEND:20260913T204500Z\r\nSUMMARY:Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hockey+Masculino%3A+%F0%9F%87%A7%F0%9F%87%B7+Brasil+vs.+%F0%9F%87%BA%F0%9F%87%BE+Uruguay+%283-2%29&dates=20260913T190000Z%2F20260913T204500Z&details=Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=Estadio+ASH%2C+Ra%C3%BAl+Tacca+707%2C+Santa+Fe+de+la+Vera+Cruz%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert17f92861197f70958d5938d75a108703\r\nDTSTAMP:20260913T190000Z\r\nDTSTART:20260913T190000Z\r\nDTEND:20260913T204500Z\r\nSUMMARY:Hockey Masculino: 🇧🇷 Brasil vs. 🇺🇾 Uruguay (3-2)\r\nLOCATION:Estadio ASH\\, Raúl Tacca 707\\, Santa Fe de la Vera Cruz\\, Santa Fe\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert9428ef33f18535387c3825f1e922d5d5",
