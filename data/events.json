@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:00:17.321Z",
+  "generatedAt": "2026-09-17T16:16:54.717Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -5761,7 +5761,7 @@
         "endLocal": "2026-09-19T18:00:00-03:00",
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
-        "title": "Chicharritas",
+        "title": "Murga Chacharritas",
         "stage": "Escenario 1"
       },
       {
@@ -5902,44 +5902,8 @@
         "source": "fanfest",
         "date": "2026-09-21",
         "startLocal": "2026-09-21T15:00:00-03:00",
-        "endLocal": "2026-09-21T16:00:00-03:00",
-        "startTimeLabel": "15:00",
-        "endTimeLabel": "16:00",
-        "title": "Primavera Rock (a confirmar)",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-21-1600-primavera-rock-(a-confirmar)@chatgpt",
-        "uid": "2026-09-21-1600-primavera-rock-(a-confirmar)@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-21",
-        "startLocal": "2026-09-21T16:00:00-03:00",
-        "endLocal": "2026-09-21T17:00:00-03:00",
-        "startTimeLabel": "16:00",
-        "endTimeLabel": "17:00",
-        "title": "Primavera Rock (a confirmar)",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-21-1700-primavera-rock-(a-confirmar)@chatgpt",
-        "uid": "2026-09-21-1700-primavera-rock-(a-confirmar)@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-21",
-        "startLocal": "2026-09-21T17:00:00-03:00",
-        "endLocal": "2026-09-21T18:00:00-03:00",
-        "startTimeLabel": "17:00",
-        "endTimeLabel": "18:00",
-        "title": "Primavera Rock (a confirmar)",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-21-1900-primavera-rock-(a-confirmar)@chatgpt",
-        "uid": "2026-09-21-1900-primavera-rock-(a-confirmar)@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-21",
-        "startLocal": "2026-09-21T19:00:00-03:00",
         "endLocal": "2026-09-21T20:00:00-03:00",
-        "startTimeLabel": "19:00",
+        "startTimeLabel": "15:00",
         "endTimeLabel": "20:00",
         "title": "Primavera Rock (a confirmar)",
         "stage": "Escenario 1"
