@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:29:36.272Z",
+  "generatedAt": "2026-09-17T11:00:17.321Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -5613,23 +5613,11 @@
         "uid": "2026-09-17-1700-galindez@chatgpt",
         "source": "fanfest",
         "date": "2026-09-17",
-        "startLocal": "2026-09-17T17:00:00-03:00",
-        "endLocal": "2026-09-17T18:00:00-03:00",
-        "startTimeLabel": "17:00",
-        "endTimeLabel": "18:00",
+        "startLocal": "2026-09-17T18:00:00-03:00",
+        "endLocal": "2026-09-17T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
         "title": "Galindez",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-17-1900-dj@chatgpt",
-        "uid": "2026-09-17-1900-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-17",
-        "startLocal": "2026-09-17T19:00:00-03:00",
-        "endLocal": "2026-09-17T20:00:00-03:00",
-        "startTimeLabel": "19:00",
-        "endTimeLabel": "20:00",
-        "title": "DJ",
         "stage": "Escenario 1"
       },
       {
@@ -5697,11 +5685,23 @@
         "uid": "2026-09-18-1900-cazadores-recolectores@chatgpt",
         "source": "fanfest",
         "date": "2026-09-18",
+        "startLocal": "2026-09-18T18:00:00-03:00",
+        "endLocal": "2026-09-18T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Cazadores Recolectores",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2e27r98p87if4ce8qmku06vb1m@google.com",
+        "uid": "2e27r98p87if4ce8qmku06vb1m@google.com",
+        "source": "fanfest",
+        "date": "2026-09-18",
         "startLocal": "2026-09-18T19:00:00-03:00",
         "endLocal": "2026-09-18T20:00:00-03:00",
         "startTimeLabel": "19:00",
         "endTimeLabel": "20:00",
-        "title": "Cazadores Recolectores",
+        "title": "Lith Killah",
         "stage": "Escenario 1"
       },
       {
@@ -5753,14 +5753,26 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-19-1700-código-inverso@chatgpt",
-        "uid": "2026-09-19-1700-código-inverso@chatgpt",
+        "id": "47mnb0omjek2agh8ma420tv7oa@google.com",
+        "uid": "47mnb0omjek2agh8ma420tv7oa@google.com",
         "source": "fanfest",
         "date": "2026-09-19",
         "startLocal": "2026-09-19T17:00:00-03:00",
         "endLocal": "2026-09-19T18:00:00-03:00",
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
+        "title": "Chicharritas",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-19-1700-código-inverso@chatgpt",
+        "uid": "2026-09-19-1700-código-inverso@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-19",
+        "startLocal": "2026-09-19T18:00:00-03:00",
+        "endLocal": "2026-09-19T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
         "title": "Código Inverso",
         "stage": "Escenario 1"
       },
@@ -5841,10 +5853,10 @@
         "uid": "2026-09-20-1900-candela-fernández@chatgpt",
         "source": "fanfest",
         "date": "2026-09-20",
-        "startLocal": "2026-09-20T19:00:00-03:00",
-        "endLocal": "2026-09-20T20:00:00-03:00",
-        "startTimeLabel": "19:00",
-        "endTimeLabel": "20:00",
+        "startLocal": "2026-09-20T18:00:00-03:00",
+        "endLocal": "2026-09-20T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
         "title": "Candela Fernández",
         "stage": "Escenario 1"
       },
@@ -5853,11 +5865,23 @@
         "uid": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
         "source": "fanfest",
         "date": "2026-09-20",
+        "startLocal": "2026-09-20T19:00:00-03:00",
+        "endLocal": "2026-09-20T20:00:00-03:00",
+        "startTimeLabel": "19:00",
+        "endTimeLabel": "20:00",
+        "title": "Cinturón de Bonadeo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "64aebv4135thioonta08agvm38@google.com",
+        "uid": "64aebv4135thioonta08agvm38@google.com",
+        "source": "fanfest",
+        "date": "2026-09-20",
         "startLocal": "2026-09-20T20:00:00-03:00",
         "endLocal": "2026-09-20T21:00:00-03:00",
         "startTimeLabel": "20:00",
         "endTimeLabel": "21:00",
-        "title": "Cinturón de Bonadeo",
+        "title": "Coty Hernández",
         "stage": "Escenario 1"
       },
       {
