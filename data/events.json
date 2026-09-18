@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T16:16:54.717Z",
+  "generatedAt": "2026-09-18T03:18:14.342Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -5902,10 +5902,58 @@
         "source": "fanfest",
         "date": "2026-09-21",
         "startLocal": "2026-09-21T15:00:00-03:00",
-        "endLocal": "2026-09-21T20:00:00-03:00",
+        "endLocal": "2026-09-21T16:00:00-03:00",
         "startTimeLabel": "15:00",
+        "endTimeLabel": "16:00",
+        "title": "Santa Fe Ska",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "5m6tl8bp3b7kg8l6nif11mkq2r@google.com",
+        "uid": "5m6tl8bp3b7kg8l6nif11mkq2r@google.com",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T16:00:00-03:00",
+        "endLocal": "2026-09-21T17:00:00-03:00",
+        "startTimeLabel": "16:00",
+        "endTimeLabel": "17:00",
+        "title": "Vale Acevedo",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "0806pe23f6g5ifed5m7084mhaj@google.com",
+        "uid": "0806pe23f6g5ifed5m7084mhaj@google.com",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T17:00:00-03:00",
+        "endLocal": "2026-09-21T18:00:00-03:00",
+        "startTimeLabel": "17:00",
+        "endTimeLabel": "18:00",
+        "title": "Mathungo y la Hot Band",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2aba9qdbeqvh7gnlrrcl1e8491@google.com",
+        "uid": "2aba9qdbeqvh7gnlrrcl1e8491@google.com",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T18:00:00-03:00",
+        "endLocal": "2026-09-21T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Ser Pop Rock",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "3ledl9dbngrrc03fq80id705pt@google.com",
+        "uid": "3ledl9dbngrrc03fq80id705pt@google.com",
+        "source": "fanfest",
+        "date": "2026-09-21",
+        "startLocal": "2026-09-21T19:00:00-03:00",
+        "endLocal": "2026-09-21T20:00:00-03:00",
+        "startTimeLabel": "19:00",
         "endTimeLabel": "20:00",
-        "title": "Primavera Rock (a confirmar)",
+        "title": "Bandalos Chinos",
         "stage": "Escenario 1"
       },
       {
