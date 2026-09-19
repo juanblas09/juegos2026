@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:18:14.342Z",
+  "generatedAt": "2026-09-19T03:14:28.607Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -5837,27 +5837,27 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-20-1700-la-tito-furcata@chatgpt",
-        "uid": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "id": "2026-09-20-1900-candela-fernández@chatgpt",
+        "uid": "2026-09-20-1900-candela-fernández@chatgpt",
         "source": "fanfest",
         "date": "2026-09-20",
         "startLocal": "2026-09-20T17:00:00-03:00",
         "endLocal": "2026-09-20T18:00:00-03:00",
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
-        "title": "La Tito Furcata",
+        "title": "Candela Fernández",
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-20-1900-candela-fernández@chatgpt",
-        "uid": "2026-09-20-1900-candela-fernández@chatgpt",
+        "id": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "uid": "2026-09-20-1700-la-tito-furcata@chatgpt",
         "source": "fanfest",
         "date": "2026-09-20",
         "startLocal": "2026-09-20T18:00:00-03:00",
         "endLocal": "2026-09-20T19:00:00-03:00",
         "startTimeLabel": "18:00",
         "endTimeLabel": "19:00",
-        "title": "Candela Fernández",
+        "title": "La Tito Furcata",
         "stage": "Escenario 1"
       },
       {
