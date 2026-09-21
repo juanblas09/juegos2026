@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:26:23.869Z",
+  "generatedAt": "2026-09-21T21:42:58.393Z",
   "windowStart": "2026-09-12",
   "windowEnd": "2026-09-26",
   "sports": [
@@ -3593,10 +3593,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "10000 m (M) Final; Relevos 4x100 m (Mixto) Final; 100 m c/v (F) Semis; 110 m c/v (M) Semis; 800 m (M y F) Semis; Disco (M) Final; Garrocha (M) Final; Decatlón: 100 m, Largo y Bala (M). Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>09:00 hs – 100 mts Llanos Masculino (Decatlón, prueba 1)</li><li>09:15 hs – Lanzamiento de Disco Masculino (Final)</li><li>09:20 hs – 10.000 mts Llanos Masculino (Final)</li><li>09:35 hs – Salto en Largo Masculino (Decatlón, prueba 2)</li><li>10:20 hs – 800 mts Llanos Masculino (Semifinal)</li><li>10:30 hs – Lanzamiento de Bala Masculino (Decatlón, prueba 3)</li><li>11:00 hs – Relevo 4x100 Mixto (Final por Tiempo)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260922T120000Z%2F20260922T140000Z&details=10000+m+%28M%29+Final%3B+Relevos+4x100+m+%28Mixto%29+Final%3B+100+m+c%2Fv+%28F%29+Semis%3B+110+m+c%2Fv+%28M%29+Semis%3B+800+m+%28M+y+F%29+Semis%3B+Disco+%28M%29+Final%3B+Garrocha+%28M%29+Final%3B+Decatl%C3%B3n%3A+100+m%2C+Largo+y+Bala+%28M%29.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertbc22b75bbc8fa5744e6d04d65bb4ff0d\r\nDTSTAMP:20260922T120000Z\r\nDTSTART:20260922T120000Z\r\nDTEND:20260922T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:10000 m (M) Final\\; Relevos 4x100 m (Mixto) Final\\; 100 m c/v (F) Semis\\; 110 m c/v (M) Semis\\; 800 m (M y F) Semis\\; Disco (M) Final\\; Garrocha (M) Final\\; Decatlón: 100 m\\, Largo y Bala (M). Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260922T120000Z%2F20260922T140000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E09%3A00+hs+%E2%80%93+100+mts+Llanos+Masculino+%28Decatl%C3%B3n%2C+prueba+1%29%3C%2Fli%3E%3Cli%3E09%3A15+hs+%E2%80%93+Lanzamiento+de+Disco+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A20+hs+%E2%80%93+10.000+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A35+hs+%E2%80%93+Salto+en+Largo+Masculino+%28Decatl%C3%B3n%2C+prueba+2%29%3C%2Fli%3E%3Cli%3E10%3A20+hs+%E2%80%93+800+mts+Llanos+Masculino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E10%3A30+hs+%E2%80%93+Lanzamiento+de+Bala+Masculino+%28Decatl%C3%B3n%2C+prueba+3%29%3C%2Fli%3E%3Cli%3E11%3A00+hs+%E2%80%93+Relevo+4x100+Mixto+%28Final+por+Tiempo%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertbc22b75bbc8fa5744e6d04d65bb4ff0d\r\nDTSTAMP:20260922T120000Z\r\nDTSTART:20260922T120000Z\r\nDTEND:20260922T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>09:00 hs – 100 mts Llanos Masculino (Decatlón\\, prueba 1)</li><li>09:15 hs – Lanzamiento de Disco Masculino (Final)</li><li>09:20 hs – 10.000 mts Llanos Masculino (Final)</li><li>09:35 hs – Salto en Largo Masculino (Decatlón\\, prueba 2)</li><li>10:20 hs – 800 mts Llanos Masculino (Semifinal)</li><li>10:30 hs – Lanzamiento de Bala Masculino (Decatlón\\, prueba 3)</li><li>11:00 hs – Relevo 4x100 Mixto (Final por Tiempo)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert5255d4a87c4aa5404545bfa0ab55ed1e",
@@ -3840,9 +3840,9 @@
       "source": "odesur",
       "date": "2026-09-22",
       "startLocal": "2026-09-22T18:00:00-03:00",
-      "endLocal": "2026-09-22T20:00:00-03:00",
+      "endLocal": "2026-09-22T20:30:00-03:00",
       "startTimeLabel": "18:00",
-      "endTimeLabel": "20:00",
+      "endTimeLabel": "20:30",
       "sport": "Atletismo",
       "sportRaw": "🏃 Atletismo — Sesión Tarde",
       "gender": null,
@@ -3854,10 +3854,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "100 m llanos (M y F) Semis y Final; 400 m llanos (M y F) Semis; Disco (F) Final; Largo (F) Final; Decatlón: Alto y 400 m (M); 10000 m (F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>18:00 hs – 100 mts Llanos Masculino (Semifinal)</li><li>18:05 hs – Salto en Alto Masculino (Decatlón, prueba 4)</li><li>18:10 hs – Lanzamiento de Disco Femenino (Final)</li><li>18:15 hs – 100 mts Llanos Femenino (Semifinal)</li><li>18:20 hs – Salto con Garrocha Masculino (Final)</li><li>18:30 hs – 10.000 mts Llanos Femenino (Final)</li><li>18:45 hs – Salto en Largo Femenino (Final)</li><li>19:15 hs – 400 mts Llanos Masculino (Semifinal)</li><li>19:30 hs – 400 mts Llanos Femenino (Semifinal)</li><li>19:45 hs – 400 mts Llanos Masculino (Decatlón, prueba 5)</li><li>20:00 hs – 100 mts Llanos Masculino (Final)</li><li>20:10 hs – 100 mts Llanos Femenino (Final)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260922T210000Z%2F20260922T230000Z&details=100+m+llanos+%28M+y+F%29+Semis+y+Final%3B+400+m+llanos+%28M+y+F%29+Semis%3B+Disco+%28F%29+Final%3B+Largo+%28F%29+Final%3B+Decatl%C3%B3n%3A+Alto+y+400+m+%28M%29%3B+10000+m+%28F%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert562e8f8c09954b830e544b6a87d180c7\r\nDTSTAMP:20260922T210000Z\r\nDTSTART:20260922T210000Z\r\nDTEND:20260922T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:100 m llanos (M y F) Semis y Final\\; 400 m llanos (M y F) Semis\\; Disco (F) Final\\; Largo (F) Final\\; Decatlón: Alto y 400 m (M)\\; 10000 m (F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260922T210000Z%2F20260922T233000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E18%3A00+hs+%E2%80%93+100+mts+Llanos+Masculino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E18%3A05+hs+%E2%80%93+Salto+en+Alto+Masculino+%28Decatl%C3%B3n%2C+prueba+4%29%3C%2Fli%3E%3Cli%3E18%3A10+hs+%E2%80%93+Lanzamiento+de+Disco+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A15+hs+%E2%80%93+100+mts+Llanos+Femenino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E18%3A20+hs+%E2%80%93+Salto+con+Garrocha+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A30+hs+%E2%80%93+10.000+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A45+hs+%E2%80%93+Salto+en+Largo+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A15+hs+%E2%80%93+400+mts+Llanos+Masculino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E19%3A30+hs+%E2%80%93+400+mts+Llanos+Femenino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E19%3A45+hs+%E2%80%93+400+mts+Llanos+Masculino+%28Decatl%C3%B3n%2C+prueba+5%29%3C%2Fli%3E%3Cli%3E20%3A00+hs+%E2%80%93+100+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E20%3A10+hs+%E2%80%93+100+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert562e8f8c09954b830e544b6a87d180c7\r\nDTSTAMP:20260922T210000Z\r\nDTSTART:20260922T210000Z\r\nDTEND:20260922T233000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>18:00 hs – 100 mts Llanos Masculino (Semifinal)</li><li>18:05 hs – Salto en Alto Masculino (Decatlón\\, prueba 4)</li><li>18:10 hs – Lanzamiento de Disco Femenino (Final)</li><li>18:15 hs – 100 mts Llanos Femenino (Semifinal)</li><li>18:20 hs – Salto con Garrocha Masculino (Final)</li><li>18:30 hs – 10.000 mts Llanos Femenino (Final)</li><li>18:45 hs – Salto en Largo Femenino (Final)</li><li>19:15 hs – 400 mts Llanos Masculino (Semifinal)</li><li>19:30 hs – 400 mts Llanos Femenino (Semifinal)</li><li>19:45 hs – 400 mts Llanos Masculino (Decatlón\\, prueba 5)</li><li>20:00 hs – 100 mts Llanos Masculino (Final)</li><li>20:10 hs – 100 mts Llanos Femenino (Final)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert055093871b4603696a4d09b43125ce6b",
@@ -3972,10 +3972,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "Marcha Media Maratón (M) Final; 400 m c/vallas (M y F) Semis; 200 m (M y F) Semis; Bala (F) Final; Alto (M) Final; Decatlón: 110 m c/v, Disco y Garrocha (M); 1500 m (M) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>07:00 hs – Medio Maratón Marcha Masculino (Final)</li><li>09:00 hs – 110 mts con Vallas Masculino (Decatlón, prueba 6)</li><li>09:10 hs – Salto en Alto Masculino (Final)</li><li>09:20 hs – 200 mts Llanos Masculino (Semifinal)</li><li>09:35 hs – Lanzamiento de Disco Masculino (Decatlón, prueba 7)</li><li>09:40 hs – 200 mts Llanos Femenino (Semifinal)</li><li>10:10 hs – 400 mts con Vallas Masculino (Semifinal)</li><li>10:35 hs – Salto con Garrocha Masculino (Decatlón, prueba 8)</li><li>10:55 hs – 1500 mts Llanos Masculino (Final)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260923T100000Z%2F20260923T140000Z&details=Marcha+Media+Marat%C3%B3n+%28M%29+Final%3B+400+m+c%2Fvallas+%28M+y+F%29+Semis%3B+200+m+%28M+y+F%29+Semis%3B+Bala+%28F%29+Final%3B+Alto+%28M%29+Final%3B+Decatl%C3%B3n%3A+110+m+c%2Fv%2C+Disco+y+Garrocha+%28M%29%3B+1500+m+%28M%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3e90f30f090ba8056b16dda314e43a19\r\nDTSTAMP:20260923T100000Z\r\nDTSTART:20260923T100000Z\r\nDTEND:20260923T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:Marcha Media Maratón (M) Final\\; 400 m c/vallas (M y F) Semis\\; 200 m (M y F) Semis\\; Bala (F) Final\\; Alto (M) Final\\; Decatlón: 110 m c/v\\, Disco y Garrocha (M)\\; 1500 m (M) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260923T100000Z%2F20260923T140000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E07%3A00+hs+%E2%80%93+Medio+Marat%C3%B3n+Marcha+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A00+hs+%E2%80%93+110+mts+con+Vallas+Masculino+%28Decatl%C3%B3n%2C+prueba+6%29%3C%2Fli%3E%3Cli%3E09%3A10+hs+%E2%80%93+Salto+en+Alto+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A20+hs+%E2%80%93+200+mts+Llanos+Masculino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E09%3A35+hs+%E2%80%93+Lanzamiento+de+Disco+Masculino+%28Decatl%C3%B3n%2C+prueba+7%29%3C%2Fli%3E%3Cli%3E09%3A40+hs+%E2%80%93+200+mts+Llanos+Femenino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E10%3A10+hs+%E2%80%93+400+mts+con+Vallas+Masculino+%28Semifinal%29%3C%2Fli%3E%3Cli%3E10%3A35+hs+%E2%80%93+Salto+con+Garrocha+Masculino+%28Decatl%C3%B3n%2C+prueba+8%29%3C%2Fli%3E%3Cli%3E10%3A55+hs+%E2%80%93+1500+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert3e90f30f090ba8056b16dda314e43a19\r\nDTSTAMP:20260923T100000Z\r\nDTSTART:20260923T100000Z\r\nDTEND:20260923T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>07:00 hs – Medio Maratón Marcha Masculino (Final)</li><li>09:00 hs – 110 mts con Vallas Masculino (Decatlón\\, prueba 6)</li><li>09:10 hs – Salto en Alto Masculino (Final)</li><li>09:20 hs – 200 mts Llanos Masculino (Semifinal)</li><li>09:35 hs – Lanzamiento de Disco Masculino (Decatlón\\, prueba 7)</li><li>09:40 hs – 200 mts Llanos Femenino (Semifinal)</li><li>10:10 hs – 400 mts con Vallas Masculino (Semifinal)</li><li>10:35 hs – Salto con Garrocha Masculino (Decatlón\\, prueba 8)</li><li>10:55 hs – 1500 mts Llanos Masculino (Final)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert3e923a0b883772482894bf3a7a2d0570",
@@ -4233,10 +4233,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "100 m c/v (F) Final; 110 m c/v (M) Final; 400 m (M y F) Final; Bala (M) Final; Triple (F) Final; Decatlón: Jabalina y 1500 m (M); 1500 m (F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>18:00 hs – Lanzamiento de Jabalina Masculino (Decatlón, prueba 9)</li><li>18:05 hs – 100 mts con Vallas Femenino (Final)</li><li>18:10 hs – Salto Triple Femenino (Final)</li><li>18:25 hs – 110 mts con Vallas Masculino (Final)</li><li>18:50 hs – 400 mts Llanos Masculino (Final)</li><li>19:05 hs – 400 mts Llanos Femenino (Final)</li><li>19:10 hs – Lanzamiento de Bala Masculino (Final)</li><li>19:35 hs – 1500 mts Llanos Femenino (Final)</li><li>19:55 hs – 1500 mts Llanos Masculino (Decatlón, prueba 10)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260923T210000Z%2F20260923T230000Z&details=100+m+c%2Fv+%28F%29+Final%3B+110+m+c%2Fv+%28M%29+Final%3B+400+m+%28M+y+F%29+Final%3B+Bala+%28M%29+Final%3B+Triple+%28F%29+Final%3B+Decatl%C3%B3n%3A+Jabalina+y+1500+m+%28M%29%3B+1500+m+%28F%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertfa40b605d67cb3a3e7ba7095f40c154f\r\nDTSTAMP:20260923T210000Z\r\nDTSTART:20260923T210000Z\r\nDTEND:20260923T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:100 m c/v (F) Final\\; 110 m c/v (M) Final\\; 400 m (M y F) Final\\; Bala (M) Final\\; Triple (F) Final\\; Decatlón: Jabalina y 1500 m (M)\\; 1500 m (F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260923T210000Z%2F20260923T230000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E18%3A00+hs+%E2%80%93+Lanzamiento+de+Jabalina+Masculino+%28Decatl%C3%B3n%2C+prueba+9%29%3C%2Fli%3E%3Cli%3E18%3A05+hs+%E2%80%93+100+mts+con+Vallas+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A10+hs+%E2%80%93+Salto+Triple+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A25+hs+%E2%80%93+110+mts+con+Vallas+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A50+hs+%E2%80%93+400+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A05+hs+%E2%80%93+400+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A10+hs+%E2%80%93+Lanzamiento+de+Bala+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A35+hs+%E2%80%93+1500+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A55+hs+%E2%80%93+1500+mts+Llanos+Masculino+%28Decatl%C3%B3n%2C+prueba+10%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertfa40b605d67cb3a3e7ba7095f40c154f\r\nDTSTAMP:20260923T210000Z\r\nDTSTART:20260923T210000Z\r\nDTEND:20260923T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>18:00 hs – Lanzamiento de Jabalina Masculino (Decatlón\\, prueba 9)</li><li>18:05 hs – 100 mts con Vallas Femenino (Final)</li><li>18:10 hs – Salto Triple Femenino (Final)</li><li>18:25 hs – 110 mts con Vallas Masculino (Final)</li><li>18:50 hs – 400 mts Llanos Masculino (Final)</li><li>19:05 hs – 400 mts Llanos Femenino (Final)</li><li>19:10 hs – Lanzamiento de Bala Masculino (Final)</li><li>19:35 hs – 1500 mts Llanos Femenino (Final)</li><li>19:55 hs – 1500 mts Llanos Masculino (Decatlón\\, prueba 10)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert75c8353a239c62da3af86f43ea7d812e",
@@ -4332,6 +4332,31 @@
       "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert738746afbd71caeeb85f80cb4e69fcc7\r\nDTSTAMP:20260923T233000Z\r\nDTSTART:20260923T233000Z\r\nDTEND:20260924T013000Z\r\nSUMMARY:Softbol Masculino: 🇻🇪 Venezuela vs. 🇦🇷 Argentina\r\nLOCATION:Estadio Mundialista de Softbol\\, Juan Ambrosetti\\, Paraná\\, Entre Ríos\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
+      "id": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
+      "uid": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
+      "source": "odesur",
+      "date": "2026-09-24",
+      "startLocal": "2026-09-24T08:15:00-03:00",
+      "endLocal": "2026-09-24T10:15:00-03:00",
+      "startTimeLabel": "08:15",
+      "endTimeLabel": "10:15",
+      "sport": "Atletismo",
+      "sportRaw": "🏃 Atletismo — Sesión Mañana",
+      "gender": null,
+      "teams": [],
+      "phase": "Sesión Mañana",
+      "titleDisplay": "Atletismo — Sesión Mañana",
+      "titleComposed": "Atletismo — Sesión Mañana",
+      "parsed": true,
+      "venueName": "CARD Centro de Alto Rendimiento Deportivo",
+      "venueAddress": "Santa Fe",
+      "isOutOfCity": false,
+      "description": "<ul dir=\"ltr\"><li>08:15 hs – Lanzamiento de Jabalina Femenino (Final)</li><li>08:40 hs – 800 mts Llanos Masculino (Final)</li><li>08:55 hs – Salto en Largo Masculino (Final)</li><li>09:00 hs – 800 mts Llanos Femenino (Final)</li><li>09:00 hs – 100 mts con Vallas Femenino (Heptatlón, prueba 1)</li><li>09:20 hs – 5.000 mts Llanos Masculino (Final)</li><li>09:35 hs – Salto en Alto Femenino (Heptatlón, prueba 2)</li><li>09:50 hs – 5.000 mts Llanos Femenino (Final)</li></ul>",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260924T111500Z%2F20260924T131500Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E08%3A15+hs+%E2%80%93+Lanzamiento+de+Jabalina+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E08%3A40+hs+%E2%80%93+800+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E08%3A55+hs+%E2%80%93+Salto+en+Largo+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A00+hs+%E2%80%93+800+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A00+hs+%E2%80%93+100+mts+con+Vallas+Femenino+%28Heptatl%C3%B3n%2C+prueba+1%29%3C%2Fli%3E%3Cli%3E09%3A20+hs+%E2%80%93+5.000+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A35+hs+%E2%80%93+Salto+en+Alto+Femenino+%28Heptatl%C3%B3n%2C+prueba+2%29%3C%2Fli%3E%3Cli%3E09%3A50+hs+%E2%80%93+5.000+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928\r\nDTSTAMP:20260924T111500Z\r\nDTSTART:20260924T111500Z\r\nDTEND:20260924T131500Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>08:15 hs – Lanzamiento de Jabalina Femenino (Final)</li><li>08:40 hs – 800 mts Llanos Masculino (Final)</li><li>08:55 hs – Salto en Largo Masculino (Final)</li><li>09:00 hs – 800 mts Llanos Femenino (Final)</li><li>09:00 hs – 100 mts con Vallas Femenino (Heptatlón\\, prueba 1)</li><li>09:20 hs – 5.000 mts Llanos Masculino (Final)</li><li>09:35 hs – Salto en Alto Femenino (Heptatlón\\, prueba 2)</li><li>09:50 hs – 5.000 mts Llanos Femenino (Final)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
+    },
+    {
       "id": "CSVConvertc0e32add7c86e67d2297934a94afb30d",
       "uid": "CSVConvertc0e32add7c86e67d2297934a94afb30d",
       "source": "odesur",
@@ -4355,31 +4380,6 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago%20Sur%2C%20Santa%20Fe",
       "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canotaje+Velocidad+%E2%80%94+Competencias&dates=20260924T120000Z%2F20260924T130000Z&details=Entrada+libre+y+gratuita.&location=Lago+Sur%2C+Santa+Fe",
       "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertc0e32add7c86e67d2297934a94afb30d\r\nDTSTAMP:20260924T120000Z\r\nDTSTART:20260924T120000Z\r\nDTEND:20260924T130000Z\r\nSUMMARY:Canotaje Velocidad — Competencias\r\nLOCATION:Lago Sur\\, Santa Fe\r\nDESCRIPTION:Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
-    },
-    {
-      "id": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
-      "uid": "CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928",
-      "source": "odesur",
-      "date": "2026-09-24",
-      "startLocal": "2026-09-24T09:00:00-03:00",
-      "endLocal": "2026-09-24T11:00:00-03:00",
-      "startTimeLabel": "09:00",
-      "endTimeLabel": "11:00",
-      "sport": "Atletismo",
-      "sportRaw": "🏃 Atletismo — Sesión Mañana",
-      "gender": null,
-      "teams": [],
-      "phase": "Sesión Mañana",
-      "titleDisplay": "Atletismo — Sesión Mañana",
-      "titleComposed": "Atletismo — Sesión Mañana",
-      "parsed": true,
-      "venueName": "CARD Centro de Alto Rendimiento Deportivo",
-      "venueAddress": "Santa Fe",
-      "isOutOfCity": false,
-      "description": "5000 m (M y F) Final; Heptatlón: 100 m c/v y Alto (F); 800 m (M y F) Final; Jabalina (F) Final; Largo (M) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260924T120000Z%2F20260924T140000Z&details=5000+m+%28M+y+F%29+Final%3B+Heptatl%C3%B3n%3A+100+m+c%2Fv+y+Alto+%28F%29%3B+800+m+%28M+y+F%29+Final%3B+Jabalina+%28F%29+Final%3B+Largo+%28M%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertee3e5ebc24c9ca1a506ab3fd81f81928\r\nDTSTAMP:20260924T120000Z\r\nDTSTART:20260924T120000Z\r\nDTEND:20260924T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:5000 m (M y F) Final\\; Heptatlón: 100 m c/v y Alto (F)\\; 800 m (M y F) Final\\; Jabalina (F) Final\\; Largo (M) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvert498814f461f1c15def6e8755422a1430",
@@ -4687,10 +4687,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "400 m c/vallas (M y F) Final; Heptatlón: Bala y 200 m (F); Jabalina (M) Final; Garrocha (F) Final; 200 m (M y F) Final; Relevos 4x400 m (Mixto) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>18:00 hs – Lanzamiento de Bala Femenino (Heptatlón, prueba 3)</li><li>18:10 hs – 400 mts con Vallas Masculino (Final)</li><li>18:15 hs – Salto con Garrocha Femenino (Final)</li><li>18:30 hs – 400 mts con Vallas Femenino (Final)</li><li>18:40 hs – Lanzamiento de Jabalina Masculino (Final)</li><li>18:50 hs – 200 mts Llanos Masculino (Final)</li><li>19:05 hs – 200 mts Llanos Femenino (Final)</li><li>19:20 hs – 200 mts Llanos Femenino (Heptatlón, prueba 4)</li><li>19:40 hs – Relevo 4x400 Mixto (Final)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260924T210000Z%2F20260924T230000Z&details=400+m+c%2Fvallas+%28M+y+F%29+Final%3B+Heptatl%C3%B3n%3A+Bala+y+200+m+%28F%29%3B+Jabalina+%28M%29+Final%3B+Garrocha+%28F%29+Final%3B+200+m+%28M+y+F%29+Final%3B+Relevos+4x400+m+%28Mixto%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert5f844a2b9c6c5bc1c36c5022ede94343\r\nDTSTAMP:20260924T210000Z\r\nDTSTART:20260924T210000Z\r\nDTEND:20260924T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:400 m c/vallas (M y F) Final\\; Heptatlón: Bala y 200 m (F)\\; Jabalina (M) Final\\; Garrocha (F) Final\\; 200 m (M y F) Final\\; Relevos 4x400 m (Mixto) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260924T210000Z%2F20260924T230000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E18%3A00+hs+%E2%80%93+Lanzamiento+de+Bala+Femenino+%28Heptatl%C3%B3n%2C+prueba+3%29%3C%2Fli%3E%3Cli%3E18%3A10+hs+%E2%80%93+400+mts+con+Vallas+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A15+hs+%E2%80%93+Salto+con+Garrocha+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A30+hs+%E2%80%93+400+mts+con+Vallas+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A40+hs+%E2%80%93+Lanzamiento+de+Jabalina+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A50+hs+%E2%80%93+200+mts+Llanos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A05+hs+%E2%80%93+200+mts+Llanos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A20+hs+%E2%80%93+200+mts+Llanos+Femenino+%28Heptatl%C3%B3n%2C+prueba+4%29%3C%2Fli%3E%3Cli%3E19%3A40+hs+%E2%80%93+Relevo+4x400+Mixto+%28Final%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert5f844a2b9c6c5bc1c36c5022ede94343\r\nDTSTAMP:20260924T210000Z\r\nDTSTART:20260924T210000Z\r\nDTEND:20260924T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>18:00 hs – Lanzamiento de Bala Femenino (Heptatlón\\, prueba 3)</li><li>18:10 hs – 400 mts con Vallas Masculino (Final)</li><li>18:15 hs – Salto con Garrocha Femenino (Final)</li><li>18:30 hs – 400 mts con Vallas Femenino (Final)</li><li>18:40 hs – Lanzamiento de Jabalina Masculino (Final)</li><li>18:50 hs – 200 mts Llanos Masculino (Final)</li><li>19:05 hs – 200 mts Llanos Femenino (Final)</li><li>19:20 hs – 200 mts Llanos Femenino (Heptatlón\\, prueba 4)</li><li>19:40 hs – Relevo 4x400 Mixto (Final)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConverte2e6bd621eb3a6e2e6792c77b5293446",
@@ -4786,31 +4786,6 @@
       "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvertfb4af96e2578854b84b93e3d4daa2083\r\nDTSTAMP:20260924T233000Z\r\nDTSTART:20260924T233000Z\r\nDTEND:20260925T013000Z\r\nSUMMARY:Softbol Masculino: 🇦🇷 Argentina vs. 🇵🇪 Perú\r\nLOCATION:Estadio Mundialista de Softbol\\, Juan Ambrosetti\\, Paraná\\, Entre Ríos\r\nDESCRIPTION:Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
-      "id": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
-      "uid": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
-      "source": "odesur",
-      "date": "2026-09-25",
-      "startLocal": "2026-09-25T07:00:00-03:00",
-      "endLocal": "2026-09-25T11:00:00-03:00",
-      "startTimeLabel": "07:00",
-      "endTimeLabel": "11:00",
-      "sport": "Atletismo",
-      "sportRaw": "🏃 Atletismo — Sesión Mañana",
-      "gender": null,
-      "teams": [],
-      "phase": "Sesión Mañana",
-      "titleDisplay": "Atletismo — Sesión Mañana",
-      "titleComposed": "Atletismo — Sesión Mañana",
-      "parsed": true,
-      "venueName": "CARD Centro de Alto Rendimiento Deportivo",
-      "venueAddress": "Santa Fe",
-      "isOutOfCity": false,
-      "description": "Marcha Media Maratón (F) Final; Martillo (M) Final; Alto (F) Final; Heptatlón: Largo, Jabalina y 800 m (F); Relevos 4x100 m (M y F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260925T100000Z%2F20260925T140000Z&details=Marcha+Media+Marat%C3%B3n+%28F%29+Final%3B+Martillo+%28M%29+Final%3B+Alto+%28F%29+Final%3B+Heptatl%C3%B3n%3A+Largo%2C+Jabalina+y+800+m+%28F%29%3B+Relevos+4x100+m+%28M+y+F%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert2230c1e639d47c274b3e337e07f1dddd\r\nDTSTAMP:20260925T100000Z\r\nDTSTART:20260925T100000Z\r\nDTEND:20260925T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:Marcha Media Maratón (F) Final\\; Martillo (M) Final\\; Alto (F) Final\\; Heptatlón: Largo\\, Jabalina y 800 m (F)\\; Relevos 4x100 m (M y F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
-    },
-    {
       "id": "CSVConvert0e5a20c4c9ce8b9cc2bc25782181651a",
       "uid": "CSVConvert0e5a20c4c9ce8b9cc2bc25782181651a",
       "source": "odesur",
@@ -4834,6 +4809,31 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago%20Sur%2C%20Santa%20Fe",
       "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Canotaje+Velocidad+%E2%80%94+Competencias&dates=20260925T120000Z%2F20260925T143000Z&details=Entrada+libre+y+gratuita.&location=Lago+Sur%2C+Santa+Fe",
       "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert0e5a20c4c9ce8b9cc2bc25782181651a\r\nDTSTAMP:20260925T120000Z\r\nDTSTART:20260925T120000Z\r\nDTEND:20260925T143000Z\r\nSUMMARY:Canotaje Velocidad — Competencias\r\nLOCATION:Lago Sur\\, Santa Fe\r\nDESCRIPTION:Entrada libre y gratuita.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+    },
+    {
+      "id": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
+      "uid": "CSVConvert2230c1e639d47c274b3e337e07f1dddd",
+      "source": "odesur",
+      "date": "2026-09-25",
+      "startLocal": "2026-09-25T09:00:00-03:00",
+      "endLocal": "2026-09-25T11:00:00-03:00",
+      "startTimeLabel": "09:00",
+      "endTimeLabel": "11:00",
+      "sport": "Atletismo",
+      "sportRaw": "🏃 Atletismo — Sesión Mañana",
+      "gender": null,
+      "teams": [],
+      "phase": "Sesión Mañana",
+      "titleDisplay": "Atletismo — Sesión Mañana",
+      "titleComposed": "Atletismo — Sesión Mañana",
+      "parsed": true,
+      "venueName": "CARD Centro de Alto Rendimiento Deportivo",
+      "venueAddress": "Santa Fe",
+      "isOutOfCity": false,
+      "description": "<ul dir=\"ltr\"><li>09:00 hs – Salto en Largo Femenino (Heptatlón, prueba 5)</li><li>09:05 hs – Lanzamiento de Martillo Femenino (Final)</li><li>09:15 hs – Salto Triple Masculino (Final)</li><li>09:45 hs – Relevo 4x100 Masculino (Final)</li><li>09:50 hs – Lanzamiento de Jabalina Femenino (Heptatlón, prueba 6)</li><li>10:15 hs – Relevo 4x100 Femenino (Final)</li><li>10:45 hs – 800 mts Llanos Femenino (Heptatlón, prueba 7)</li></ul>",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Ma%C3%B1ana&dates=20260925T120000Z%2F20260925T140000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E09%3A00+hs+%E2%80%93+Salto+en+Largo+Femenino+%28Heptatl%C3%B3n%2C+prueba+5%29%3C%2Fli%3E%3Cli%3E09%3A05+hs+%E2%80%93+Lanzamiento+de+Martillo+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A15+hs+%E2%80%93+Salto+Triple+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A45+hs+%E2%80%93+Relevo+4x100+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E09%3A50+hs+%E2%80%93+Lanzamiento+de+Jabalina+Femenino+%28Heptatl%C3%B3n%2C+prueba+6%29%3C%2Fli%3E%3Cli%3E10%3A15+hs+%E2%80%93+Relevo+4x100+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E10%3A45+hs+%E2%80%93+800+mts+Llanos+Femenino+%28Heptatl%C3%B3n%2C+prueba+7%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert2230c1e639d47c274b3e337e07f1dddd\r\nDTSTAMP:20260925T120000Z\r\nDTSTART:20260925T120000Z\r\nDTEND:20260925T140000Z\r\nSUMMARY:Atletismo — Sesión Mañana\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>09:00 hs – Salto en Largo Femenino (Heptatlón\\, prueba 5)</li><li>09:05 hs – Lanzamiento de Martillo Femenino (Final)</li><li>09:15 hs – Salto Triple Masculino (Final)</li><li>09:45 hs – Relevo 4x100 Masculino (Final)</li><li>09:50 hs – Lanzamiento de Jabalina Femenino (Heptatlón\\, prueba 6)</li><li>10:15 hs – Relevo 4x100 Femenino (Final)</li><li>10:45 hs – 800 mts Llanos Femenino (Heptatlón\\, prueba 7)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertbb469abd12ddd7378aad0933c177dc58",
@@ -5048,10 +5048,10 @@
       "venueName": "CARD Centro de Alto Rendimiento Deportivo",
       "venueAddress": "Santa Fe",
       "isOutOfCity": false,
-      "description": "Triple (M) Final; Martillo (F) Final; 3000 m c/obstáculos (M y F) Final; Relevos 4x400 m (M y F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.",
+      "description": "<ul dir=\"ltr\"><li>18:00 hs – Salto en Alto Femenino (Final)</li><li>18:05 hs – Lanzamiento de Martillo Masculino (Final)</li><li>18:40 hs – 3000 mts Con Obstáculos Masculino (Final)</li><li>18:55 hs – 3000 mts Con Obstáculos Femenino (Final)</li><li>19:15 hs – Relevo 4x400 Masculino (Final)</li><li>19:30 hs – Relevo 4x400 Femenino (Final)</li></ul>",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARD%20Centro%20de%20Alto%20Rendimiento%20Deportivo%2C%20Santa%20Fe",
-      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260925T210000Z%2F20260925T230000Z&details=Triple+%28M%29+Final%3B+Martillo+%28F%29+Final%3B+3000+m+c%2Fobst%C3%A1culos+%28M+y+F%29+Final%3B+Relevos+4x400+m+%28M+y+F%29+Final.+Anticipadas+por+web+para+reservar+lugar.+Entrada+libre+y+gratuita+hasta+agotar+capacidad.&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
-      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert88203fafdee1dcb6f73e79b94a38f33d\r\nDTSTAMP:20260925T210000Z\r\nDTSTART:20260925T210000Z\r\nDTEND:20260925T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:Triple (M) Final\\; Martillo (F) Final\\; 3000 m c/obstáculos (M y F) Final\\; Relevos 4x400 m (M y F) Final. Anticipadas por web para reservar lugar. Entrada libre y gratuita hasta agotar capacidad.\r\nEND:VEVENT\r\nEND:VCALENDAR"
+      "gcalUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Atletismo+%E2%80%94+Sesi%C3%B3n+Tarde&dates=20260925T210000Z%2F20260925T230000Z&details=%3Cul+dir%3D%22ltr%22%3E%3Cli%3E18%3A00+hs+%E2%80%93+Salto+en+Alto+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A05+hs+%E2%80%93+Lanzamiento+de+Martillo+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A40+hs+%E2%80%93+3000+mts+Con+Obst%C3%A1culos+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E18%3A55+hs+%E2%80%93+3000+mts+Con+Obst%C3%A1culos+Femenino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A15+hs+%E2%80%93+Relevo+4x400+Masculino+%28Final%29%3C%2Fli%3E%3Cli%3E19%3A30+hs+%E2%80%93+Relevo+4x400+Femenino+%28Final%29%3C%2Fli%3E%3C%2Ful%3E&location=CARD+Centro+de+Alto+Rendimiento+Deportivo%2C+Santa+Fe",
+      "icsContent": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//ODESUR Santa Fe 2026//grilla//ES\r\nCALSCALE:GREGORIAN\r\nBEGIN:VEVENT\r\nUID:CSVConvert88203fafdee1dcb6f73e79b94a38f33d\r\nDTSTAMP:20260925T210000Z\r\nDTSTART:20260925T210000Z\r\nDTEND:20260925T230000Z\r\nSUMMARY:Atletismo — Sesión Tarde\r\nLOCATION:CARD Centro de Alto Rendimiento Deportivo\\, Santa Fe\r\nDESCRIPTION:<ul dir=\"ltr\"><li>18:00 hs – Salto en Alto Femenino (Final)</li><li>18:05 hs – Lanzamiento de Martillo Masculino (Final)</li><li>18:40 hs – 3000 mts Con Obstáculos Masculino (Final)</li><li>18:55 hs – 3000 mts Con Obstáculos Femenino (Final)</li><li>19:15 hs – Relevo 4x400 Masculino (Final)</li><li>19:30 hs – Relevo 4x400 Femenino (Final)</li></ul>\r\nEND:VEVENT\r\nEND:VCALENDAR"
     },
     {
       "id": "CSVConvertc9b677d08026049a9d0d25598d5a97c1",
@@ -5801,102 +5801,6 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-20-1400-dj@chatgpt",
-        "uid": "2026-09-20-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T14:00:00-03:00",
-        "endLocal": "2026-09-20T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-20-1500-dj@chatgpt",
-        "uid": "2026-09-20-1500-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T15:00:00-03:00",
-        "endLocal": "2026-09-20T16:00:00-03:00",
-        "startTimeLabel": "15:00",
-        "endTimeLabel": "16:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-20-1600-particulares@chatgpt",
-        "uid": "2026-09-20-1600-particulares@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T16:00:00-03:00",
-        "endLocal": "2026-09-20T17:00:00-03:00",
-        "startTimeLabel": "16:00",
-        "endTimeLabel": "17:00",
-        "title": "Particulares",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-20-1900-candela-fernández@chatgpt",
-        "uid": "2026-09-20-1900-candela-fernández@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T17:00:00-03:00",
-        "endLocal": "2026-09-20T18:00:00-03:00",
-        "startTimeLabel": "17:00",
-        "endTimeLabel": "18:00",
-        "title": "Candela Fernández",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-20-1700-la-tito-furcata@chatgpt",
-        "uid": "2026-09-20-1700-la-tito-furcata@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T18:00:00-03:00",
-        "endLocal": "2026-09-20T19:00:00-03:00",
-        "startTimeLabel": "18:00",
-        "endTimeLabel": "19:00",
-        "title": "La Tito Furcata",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
-        "uid": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T19:00:00-03:00",
-        "endLocal": "2026-09-20T20:00:00-03:00",
-        "startTimeLabel": "19:00",
-        "endTimeLabel": "20:00",
-        "title": "Cinturón de Bonadeo",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "64aebv4135thioonta08agvm38@google.com",
-        "uid": "64aebv4135thioonta08agvm38@google.com",
-        "source": "fanfest",
-        "date": "2026-09-20",
-        "startLocal": "2026-09-20T20:00:00-03:00",
-        "endLocal": "2026-09-20T21:00:00-03:00",
-        "startTimeLabel": "20:00",
-        "endTimeLabel": "21:00",
-        "title": "Coty Hernández",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-21-1400-dj@chatgpt",
-        "uid": "2026-09-21-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-21",
-        "startLocal": "2026-09-21T14:00:00-03:00",
-        "endLocal": "2026-09-21T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
         "id": "2026-09-21-1500-primavera-rock-(a-confirmar)@chatgpt",
         "uid": "2026-09-21-1500-primavera-rock-(a-confirmar)@chatgpt",
         "source": "fanfest",
@@ -5969,30 +5873,6 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-22-1400-dj@chatgpt",
-        "uid": "2026-09-22-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-22",
-        "startLocal": "2026-09-22T14:00:00-03:00",
-        "endLocal": "2026-09-22T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-22-1500-resuena@chatgpt",
-        "uid": "2026-09-22-1500-resuena@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-22",
-        "startLocal": "2026-09-22T15:00:00-03:00",
-        "endLocal": "2026-09-22T16:00:00-03:00",
-        "startTimeLabel": "15:00",
-        "endTimeLabel": "16:00",
-        "title": "Resuena",
-        "stage": "Escenario 1"
-      },
-      {
         "id": "2026-09-22-1600-les-muum@chatgpt",
         "uid": "2026-09-22-1600-les-muum@chatgpt",
         "source": "fanfest",
@@ -6005,15 +5885,15 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-22-1700-dj@chatgpt",
-        "uid": "2026-09-22-1700-dj@chatgpt",
+        "id": "2026-09-20-1900-candela-fernández@chatgpt",
+        "uid": "2026-09-20-1900-candela-fernández@chatgpt",
         "source": "fanfest",
         "date": "2026-09-22",
         "startLocal": "2026-09-22T17:00:00-03:00",
         "endLocal": "2026-09-22T18:00:00-03:00",
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
-        "title": "DJ",
+        "title": "Candela Fernández",
         "stage": "Escenario 1"
       },
       {
@@ -6021,11 +5901,23 @@
         "uid": "2026-09-22-1900-vomitan-glitter@chatgpt",
         "source": "fanfest",
         "date": "2026-09-22",
+        "startLocal": "2026-09-22T18:00:00-03:00",
+        "endLocal": "2026-09-22T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Vomitan Glitter",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "1k2d0ccqs52s5ks5u3kf9mk5re@google.com",
+        "uid": "1k2d0ccqs52s5ks5u3kf9mk5re@google.com",
+        "source": "fanfest",
+        "date": "2026-09-22",
         "startLocal": "2026-09-22T19:00:00-03:00",
         "endLocal": "2026-09-22T20:00:00-03:00",
         "startTimeLabel": "19:00",
         "endTimeLabel": "20:00",
-        "title": "Vomitan Glitter",
+        "title": "Positivo Folk",
         "stage": "Escenario 1"
       },
       {
@@ -6041,27 +5933,15 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-23-1400-dj@chatgpt",
-        "uid": "2026-09-23-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-23",
-        "startLocal": "2026-09-23T14:00:00-03:00",
-        "endLocal": "2026-09-23T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-23-1500-murga-chicharritas-(a-confirmar)@chatgpt",
-        "uid": "2026-09-23-1500-murga-chicharritas-(a-confirmar)@chatgpt",
+        "id": "2026-09-22-1500-resuena@chatgpt",
+        "uid": "2026-09-22-1500-resuena@chatgpt",
         "source": "fanfest",
         "date": "2026-09-23",
         "startLocal": "2026-09-23T15:00:00-03:00",
         "endLocal": "2026-09-23T16:00:00-03:00",
         "startTimeLabel": "15:00",
         "endTimeLabel": "16:00",
-        "title": "Murga Chicharritas (a confirmar)",
+        "title": "Resuena",
         "stage": "Escenario 1"
       },
       {
@@ -6077,27 +5957,27 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-23-1700-dj@chatgpt",
-        "uid": "2026-09-23-1700-dj@chatgpt",
+        "id": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
+        "uid": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
         "source": "fanfest",
         "date": "2026-09-23",
-        "startLocal": "2026-09-23T17:00:00-03:00",
-        "endLocal": "2026-09-23T18:00:00-03:00",
-        "startTimeLabel": "17:00",
-        "endTimeLabel": "18:00",
-        "title": "DJ",
+        "startLocal": "2026-09-23T18:00:00-03:00",
+        "endLocal": "2026-09-23T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Tarro & The Baldes",
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
-        "uid": "2026-09-23-1900-tarro-&-the-baldes@chatgpt",
+        "id": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
+        "uid": "2026-09-20-2000-cinturón-de-bonadeo@chatgpt",
         "source": "fanfest",
         "date": "2026-09-23",
         "startLocal": "2026-09-23T19:00:00-03:00",
         "endLocal": "2026-09-23T20:00:00-03:00",
         "startTimeLabel": "19:00",
         "endTimeLabel": "20:00",
-        "title": "Tarro & The Baldes",
+        "title": "Cinturón de Bonadeo",
         "stage": "Escenario 1"
       },
       {
@@ -6110,30 +5990,6 @@
         "startTimeLabel": "20:00",
         "endTimeLabel": "21:00",
         "title": "Q'Lokura",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-24-1400-dj@chatgpt",
-        "uid": "2026-09-24-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-24",
-        "startLocal": "2026-09-24T14:00:00-03:00",
-        "endLocal": "2026-09-24T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-24-1500-dj@chatgpt",
-        "uid": "2026-09-24-1500-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-24",
-        "startLocal": "2026-09-24T15:00:00-03:00",
-        "endLocal": "2026-09-24T16:00:00-03:00",
-        "startTimeLabel": "15:00",
-        "endTimeLabel": "16:00",
-        "title": "DJ",
         "stage": "Escenario 1"
       },
       {
@@ -6161,6 +6017,18 @@
         "stage": "Escenario 1"
       },
       {
+        "id": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "uid": "2026-09-20-1700-la-tito-furcata@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T18:00:00-03:00",
+        "endLocal": "2026-09-24T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "La Tito Furcata",
+        "stage": "Escenario 1"
+      },
+      {
         "id": "2026-09-24-1900-indios@chatgpt",
         "uid": "2026-09-24-1900-indios@chatgpt",
         "source": "fanfest",
@@ -6173,39 +6041,27 @@
         "stage": "Escenario 1"
       },
       {
-        "id": "2026-09-24-2000-fiesta-polenta@chatgpt",
-        "uid": "2026-09-24-2000-fiesta-polenta@chatgpt",
+        "id": "64aebv4135thioonta08agvm38@google.com",
+        "uid": "64aebv4135thioonta08agvm38@google.com",
         "source": "fanfest",
         "date": "2026-09-24",
         "startLocal": "2026-09-24T20:00:00-03:00",
         "endLocal": "2026-09-24T21:00:00-03:00",
         "startTimeLabel": "20:00",
         "endTimeLabel": "21:00",
+        "title": "Coty Hernández",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-24-2000-fiesta-polenta@chatgpt",
+        "uid": "2026-09-24-2000-fiesta-polenta@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-24",
+        "startLocal": "2026-09-24T21:00:00-03:00",
+        "endLocal": "2026-09-24T22:00:00-03:00",
+        "startTimeLabel": "21:00",
+        "endTimeLabel": "22:00",
         "title": "Fiesta Polenta",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-25-1400-dj@chatgpt",
-        "uid": "2026-09-25-1400-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-25",
-        "startLocal": "2026-09-25T14:00:00-03:00",
-        "endLocal": "2026-09-25T15:00:00-03:00",
-        "startTimeLabel": "14:00",
-        "endTimeLabel": "15:00",
-        "title": "DJ",
-        "stage": "Escenario 1"
-      },
-      {
-        "id": "2026-09-25-1500-dj@chatgpt",
-        "uid": "2026-09-25-1500-dj@chatgpt",
-        "source": "fanfest",
-        "date": "2026-09-25",
-        "startLocal": "2026-09-25T15:00:00-03:00",
-        "endLocal": "2026-09-25T16:00:00-03:00",
-        "startTimeLabel": "15:00",
-        "endTimeLabel": "16:00",
-        "title": "DJ",
         "stage": "Escenario 1"
       },
       {
@@ -6230,6 +6086,18 @@
         "startTimeLabel": "17:00",
         "endTimeLabel": "18:00",
         "title": "Los Gastro",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "2026-09-20-1600-particulares@chatgpt",
+        "uid": "2026-09-20-1600-particulares@chatgpt",
+        "source": "fanfest",
+        "date": "2026-09-25",
+        "startLocal": "2026-09-25T18:00:00-03:00",
+        "endLocal": "2026-09-25T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Particulares",
         "stage": "Escenario 1"
       },
       {
@@ -6289,7 +6157,19 @@
         "endLocal": "2026-09-26T17:00:00-03:00",
         "startTimeLabel": "16:00",
         "endTimeLabel": "17:00",
-        "title": "Coro Min Educ",
+        "title": "Red de Coros y Orquestas",
+        "stage": "Escenario 1"
+      },
+      {
+        "id": "10d52gpffc94b5q4jk1f7va04i@google.com",
+        "uid": "10d52gpffc94b5q4jk1f7va04i@google.com",
+        "source": "fanfest",
+        "date": "2026-09-26",
+        "startLocal": "2026-09-26T18:00:00-03:00",
+        "endLocal": "2026-09-26T19:00:00-03:00",
+        "startTimeLabel": "18:00",
+        "endTimeLabel": "19:00",
+        "title": "Ceremonia Clausura",
         "stage": "Escenario 1"
       },
       {
