@@ -5,6 +5,8 @@ import { getPhase, getDefaultDate, buildWeeks, findWeekIndexForDate, todayInArge
 import { initTheme, renderThemeToggle } from './ui/themeToggle.js';
 import { renderCountdown } from './ui/countdown.js';
 import { renderEndedBanner } from './ui/endedBanner.js';
+import { renderThanksBanner } from './ui/thanksBanner.js';
+import { renderMedalTable } from './ui/medalTable.js';
 import { mountFilters } from './ui/filters.js';
 import { mountWeekNav } from './ui/weekNav.js';
 import { mountGrid } from './ui/grid.js';
@@ -58,7 +60,13 @@ function main() {
   if (phase === 'before') {
     renderCountdown(slots.banners, { windowStart: data.windowStart });
   } else if (phase === 'after') {
+    renderThanksBanner(slots.banners);
+    renderMedalTable(slots.banners);
     renderEndedBanner(slots.banners);
+  } else if (today >= data.windowEnd) {
+    // Last day of the Games: celebrate now, without claiming they've fully ended.
+    renderThanksBanner(slots.banners);
+    renderMedalTable(slots.banners);
   }
 
   const weeks = buildWeeks(data.windowStart, data.windowEnd);

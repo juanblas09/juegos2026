@@ -177,6 +177,91 @@ a {
   color: var(--color-text-muted);
 }
 
+.banner-thanks {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  background: linear-gradient(135deg, var(--color-accent-soft), var(--color-accent-fanfest-soft));
+  border: 1px solid var(--color-accent);
+}
+
+.banner-thanks-emoji {
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+.banner-thanks strong {
+  display: block;
+  font-size: 1.05rem;
+  margin-bottom: 0.25rem;
+}
+
+.banner-thanks p {
+  margin: 0;
+  color: var(--color-text);
+}
+
+/* ---------- Medal table ---------- */
+.medal-table-section {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  padding: 1rem;
+  margin: 0 0.25rem 1rem;
+}
+
+.medal-table-heading {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+}
+
+.medal-table-scroll {
+  overflow-x: auto;
+}
+
+.medal-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.medal-table th,
+.medal-table td {
+  padding: 0.4rem 0.6rem;
+  text-align: center;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.medal-table th {
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.medal-col-rank {
+  color: var(--color-text-muted);
+}
+
+.medal-col-noc {
+  text-align: left;
+  font-weight: 600;
+}
+
+.medal-col-total {
+  font-weight: 700;
+}
+
+.medal-table tbody tr:first-child {
+  background: var(--color-accent-soft);
+}
+
+.medal-table-source {
+  margin: 0.6rem 0 0;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+}
+
 .banner-subscribe {
   background: var(--color-surface);
   border: 1px solid var(--color-border);
